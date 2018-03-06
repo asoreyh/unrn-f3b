@@ -38,6 +38,10 @@ Ciclos termodinámicos. Ciclo de Carnot. Eficiencia de una máquina térmica. Se
 **7 encuentros desde el 30/May hasta el 21/Jun**
 Transferencia de calor: radiación, conducción y convección. Ley de Newton. Conductores y aislantes del calor. Ley de Fourier. Aplicaciones hogareñas. Termodinámica de la vida. Energía y humanidad. Calentamiento global.
 
+## [Guías de ejercicios](https://github.com/asoreyh/unrn-f3b/tree/master/guias) ##
+
+## [Materiales](https://github.com/asoreyh/unrn-f3b/tree/master/materiales) ##
+
 ## Bibliografía obligatoria y complementaria
 
 * Paul A. Tipler y Gene Mosca, "Física para las Ciencias y la Tecnología", Volumen 1, cualquier edición
