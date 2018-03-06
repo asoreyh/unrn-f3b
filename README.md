@@ -19,22 +19,22 @@ Ideas alternativas en la termodinámica. El calor como transferencia de energía
 **Del 08/Mar al 26/Abr** 
 
 
-### [Unidad 1: El Calor](clases/u01)
+### [Unidad 1: El Calor](https://github.com/asoreyh/unrn-f3b/tree/master/clases/u01)
 **7 encuentros desde el 08/Mar hasta el 04/Abr**
 El calor. Gases ideales y reales. Energía interna. Calorimetría. Calor específico. Teoría cinética de los gases. Temperatura: concepto macroscópico y microscópico. Cambios de fase y calor latente.
 
-### [Unidad 2: Primer Principio de la Termodinámica](clases/u02)
+### [Unidad 2: Primer Principio de la Termodinámica](https://github.com/asoreyh/unrn-f3b/tree/master/clases/u02)
 **7 encuentros desde el 05/Abr hasta el 26/Abr**
 Calor y trabajo. Equivalente mecánico del calor. Experimento de Joule. Sistemas. Fuentes de calor. Primer principio. Flujo de calor. Muerte térmica. Máquinas térmicas. 
 
 ## Segundo módulo
 **Del 02/May al 21/Jun**
 
-### [Unidad 3: Segundo Principio de la Termodinámica](clases/u03)
+### [Unidad 3: Segundo Principio de la Termodinámica](https://github.com/asoreyh/unrn-f3b/tree/master/clases/u03)
 **8 encuentros desde el 02/May hasta el 24/May**
 Ciclos termodinámicos. Ciclo de Carnot. Eficiencia de una máquina térmica. Segundo principio de la termodinámica. Postulados. Móviles perpetuos. Entropía. Interpretación micro y macroscópica de la entropía. La flecha temporal
 
-### [Unidad 4: Aplicaciones](clases/u04)
+### [Unidad 4: Aplicaciones](https://github.com/asoreyh/unrn-f3b/tree/master/clases/u04)
 **7 encuentros desde el 30/May hasta el 21/Jun**
 Transferencia de calor: radiación, conducción y convección. Ley de Newton. Conductores y aislantes del calor. Ley de Fourier. Aplicaciones hogareñas. Termodinámica de la vida. Energía y humanidad. Calentamiento global.
 
