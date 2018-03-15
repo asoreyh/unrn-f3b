@@ -18,7 +18,6 @@ Ideas alternativas en la termodinámica. El calor como transferencia de energía
 ## Primer módulo
 **Del 08/Mar al 26/Abr** 
 
-
 ### [Unidad 1: El Calor](https://github.com/asoreyh/unrn-f3b/tree/master/clases/u01)
 **7 encuentros desde el 08/Mar hasta el 04/Abr**
 El calor. Gases ideales y reales. Energía interna. Calorimetría. Calor específico. Teoría cinética de los gases. Temperatura: concepto macroscópico y microscópico. Cambios de fase y calor latente.
@@ -51,7 +50,8 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 
 ### Evolución de la cursada
 
-* *01, U01C01P, 08/03/2018*
+* 01, U01C01P, 08/03/2018, 01/29: Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Comienzo Módulo 01, unidad 01: Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas
+* *02, U01C02V, 15/03/2018, 02/29:* 
 
 #### (C) 2018 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
