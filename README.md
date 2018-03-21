@@ -5,6 +5,12 @@
 
 Las clases fueron realizados en [LibreOffice Impress](https://es.libreoffice.org/descubre/impress/), la herramienta de presentaciones de [LibreOffice](https://es.libreoffice.org/). Para poder visualizar correctamente las clases, por favor descarguelo siguiendo el este enlace: **[Descargue LibreOffice](https://es.libreoffice.org/descarga/libreoffice-estable/)**. En Windows, puede ser necesario descargar también la fuente [Cabin](https://www.fontsquirrel.com/fonts/download/cabin). Para facilitar la difusión, se incluyen también versiones de las clases en formato pdf. Para visualizarlo, podría necesitar descargar [Acrobat Reader](https://get.adobe.com/es/reader).
 
+## [Clases](https://github.com/asoreyh/unrn-f3b/tree/master/clases) ##
+
+## [Guías de ejercicios](https://github.com/asoreyh/unrn-f3b/tree/master/guias) ##
+
+## [Materiales](https://github.com/asoreyh/unrn-f3b/tree/master/materiales) ##
+
 # Objetivo
 
 Construir un marco de trabajo conceptual sobre la termodinámica en general; los principios y leyes que regulan los mecanismos de transferencia de calor; y la importancia y problemas asociados a la termodinámica en la actualidad.
@@ -37,9 +43,6 @@ Ciclos termodinámicos. Ciclo de Carnot. Eficiencia de una máquina térmica. Se
 **7 encuentros desde el 30/May hasta el 21/Jun**
 Transferencia de calor: radiación, conducción y convección. Ley de Newton. Conductores y aislantes del calor. Ley de Fourier. Aplicaciones hogareñas. Termodinámica de la vida. Energía y humanidad. Calentamiento global.
 
-## [Guías de ejercicios](https://github.com/asoreyh/unrn-f3b/tree/master/guias) ##
-
-## [Materiales](https://github.com/asoreyh/unrn-f3b/tree/master/materiales) ##
 
 ## Bibliografía obligatoria y complementaria
 
@@ -51,7 +54,9 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 ### Evolución de la cursada
 
 * 01, U01C01P, 08/03/2018, 01/29: Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Comienzo Módulo 01, unidad 01: Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas
-* *02, U01C02V, 15/03/2018, 02/29:* 
+* 02, U01C02V, 15/03/2018, 02/29: Gases ideales y reales; Teoría cinética de los gases; concepto de temperatura microscópia y macroscópica.
+* 03, U01C03P, 21/03/2018, 03/29: Distribuciones y Práctica Guía 01. 
+* *04, U01C04P, 22/03/2018, 04/29:*
 
 #### (C) 2018 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
