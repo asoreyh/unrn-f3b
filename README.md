@@ -56,7 +56,8 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 * 01, U01C01P, 08/03/2018, 01/29: Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Comienzo Módulo 01, unidad 01: Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas
 * 02, U01C02V, 15/03/2018, 02/29: Gases ideales y reales; Teoría cinética de los gases; concepto de temperatura microscópia y macroscópica.
 * 03, U01C03P, 21/03/2018, 03/29: Distribuciones y Práctica Guía 01. 
-* *04, U01C04P, 22/03/2018, 04/29:*
+* 04, U01C04P, 22/03/2018, 04/29: Transformaciones; El diagrama P-V; Calor específico, Deducción para gases ideales
+* *05, U01C05V, 28/03/2018, 05/29:*
 
 #### (C) 2018 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
