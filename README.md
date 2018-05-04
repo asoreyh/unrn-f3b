@@ -53,11 +53,19 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 
 ### Evolución de la cursada
 
-* 01, U01C01P, 08/03/2018, 01/29: Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Comienzo Módulo 01, unidad 01: Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas
-* 02, U01C02V, 15/03/2018, 02/29: Gases ideales y reales; Teoría cinética de los gases; concepto de temperatura microscópia y macroscópica.
-* 03, U01C03P, 21/03/2018, 03/29: Distribuciones y Práctica Guía 01. 
-* 04, U01C04P, 22/03/2018, 04/29: Transformaciones; El diagrama P-V; Calor específico, Deducción para gases ideales
-* *05, U01C05V, 04/04/2018, 05/29:*
+* 01, U01C01P, 08/03/2018: Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Comienzo Módulo 01, unidad 01: Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas
+* 02, U01C02V, 15/03/2018: Gases ideales y reales; Teoría cinética de los gases; concepto de temperatura microscópia y macroscópica.
+* 03, U01C03P, 21/03/2018: Distribuciones y Práctica Guía 01. 
+* 04, U01C04P, 22/03/2018: Transformaciones; El diagrama P-V; Calor específico, Deducción para gases ideales
+* 05, U01C05V, 04/04/2018: Calor específico en sólidos, Ley de Dulong-Petite, Capacidad Calorífica, Sistema termodinámico, Frontera, Medio, Fases, Cambio de fases, Calor Latente y Calor sensible
+* 06, U02C01V, 05/04/2018: Primer principio, transformación isoterma y adiabática, sucesión de transformaciones, ciclos. 
+* 07, U02C02P, 11/04/2018: Guía 01
+* 08, U02C03P, 12/04/2018: Ciclos termodinámicos, cuadro de estados, cuadro de transformaciones
+* 09, U02C04V, 19/04/2018: Ciclos termodinámicos 2, ciclos reversibles e irreversibles, eficiencia termodinámica, ciclo de Carnot, eficiencia del ciclo de Carnot, teorema de Carnot
+* 10, U02C05V, 26/04/2018: Máquinas térmicas, trabajo útil, la bomba de agua, Newcomen, Watt, el motor de vapor
+* 11, U02C06V, 03/05/2018: Mejoras de Watt, la máquina de vapor de Watt, indicador de estado y diagrama PV, Ciclo Otto, Ciclo Diesel, muerte térmica, máquina frigorífica, ciclos combinados.
+* *12, U03C01P, 09/05/2018*
+* *13, U03C02P, 10/05/2018*
 
 #### (C) 2018 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
