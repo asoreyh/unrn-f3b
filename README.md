@@ -64,8 +64,9 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 * 09, U02C04V, 19/04/2018: Ciclos termodinámicos 2, ciclos reversibles e irreversibles, eficiencia termodinámica, ciclo de Carnot, eficiencia del ciclo de Carnot, teorema de Carnot
 * 10, U02C05V, 26/04/2018: Máquinas térmicas, trabajo útil, la bomba de agua, Newcomen, Watt, el motor de vapor
 * 11, U02C06V, 03/05/2018: Mejoras de Watt, la máquina de vapor de Watt, indicador de estado y diagrama PV, Ciclo Otto, Ciclo Diesel, muerte térmica, máquina frigorífica, ciclos combinados.
-* *12, U03C01P, 09/05/2018*
-* *13, U03C02P, 10/05/2018*
+* 12, U02C07P, 09/05/2018: Guía 03
+* 13, U03C01V, 16/05/2018: Guía 04 y repaso U02.
+* 14, U03C02V, 17/05/2018: Segundo principio de la termodinámica. Enunciados de Clausius y Kelvin-Planck. Equivalencia. Máquina frigorífica. Irreversibilidad. Teorema de Carnot. Enunciado de Carnot.
 
 #### (C) 2018 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
