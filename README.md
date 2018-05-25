@@ -67,6 +67,15 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 * 12, U02C07P, 09/05/2018: Guía 03
 * 13, U03C01V, 16/05/2018: Guía 04 y repaso U02.
 * 14, U03C02V, 17/05/2018: Segundo principio de la termodinámica. Enunciados de Clausius y Kelvin-Planck. Equivalencia. Máquina frigorífica. Irreversibilidad. Teorema de Carnot. Enunciado de Carnot.
+* 15, U03C03V, 24/05/2018: La heladera. Desigualdad de Clausius. Entropía. La entropía como función de estado. Gibbs. Cambios de estado y cambio de entropía. 
+* 16, U03C04V, 30/05/2018: Próximamente.
+* 17, U03C05V, 31/05/2018: Próximamente.
+* 18, U03C06V, 06/06/2018: Próximamente.
+* 19, U04C01V, 07/06/2018: Próximamente.
+* 20, U04C02P, 13/06/2018: Próximamente.
+* 21, U03C04V, 14/06/2018: Próximamente.
+* 22, U03C05V, 20/06/2018: Próximamente.
+* 23, U03C06V, 21/06/2018: Próximamente. Fin del curso.
 
 #### (C) 2018 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
