@@ -70,7 +70,7 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 * 15, U03C03V, 24/05/2018: La heladera. Desigualdad de Clausius. Entropía. La entropía como función de estado. Gibbs. Cambios de estado y cambio de entropía. 
 * 16, U03C04V, 30/05/2018: Transformaciones y cambios de entropía. Procesos isentrópicos. El diagrama T-S. Transformaciones en el diagrama T-S.
 * 17, U03C05V, 31/05/2018: Entropía en aumento. Cambios de entropía del sistema, el medio y el universo. Cambio de entropía en una máquina térmica. El aumento de la entropía y el segundo principio.
-* 18, U03C06V, 06/06/2018: Próximamente.
+* 18, U03C06V, 06/06/2018: Repaso entropía. Aplicación a casos prácticos. Cambio de entropía por congelamiento de agua.
 * 19, U04C01V, 07/06/2018: Próximamente.
 * 20, U04C02P, 13/06/2018: Próximamente.
 * 21, U03C04V, 14/06/2018: Próximamente.
