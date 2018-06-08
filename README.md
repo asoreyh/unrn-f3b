@@ -54,24 +54,24 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 ### Evolución de la cursada
 
 * 01, U01C01P, 08/03/2018: Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Comienzo Módulo 01, unidad 01: Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas
-* 02, U01C02V, 15/03/2018: Gases ideales y reales; Teoría cinética de los gases; concepto de temperatura microscópia y macroscópica.
+* 02, U01C02V, 15/03/2018: Gases ideales y reales; Teoría cinética de los gases; concepto de temperatura microscópica y macroscópica.
 * 03, U01C03P, 21/03/2018: Distribuciones y Práctica Guía 01. 
 * 04, U01C04P, 22/03/2018: Transformaciones; El diagrama P-V; Calor específico, Deducción para gases ideales
-* 05, U01C05V, 04/04/2018: Calor específico en sólidos, Ley de Dulong-Petite, Capacidad Calorífica, Sistema termodinámico, Frontera, Medio, Fases, Cambio de fases, Calor Latente y Calor sensible
+* 05, U01C05V, 04/04/2018: Calor específico en sólidos, Ley de Dulong-Petite, Capacidad Calorífica, Sistema termodinámico, Frontera, Medio, Fases, Cambio de fases, Calor Latente y Calor sensible. Fin unidad 03.
 * 06, U02C01V, 05/04/2018: Primer principio, transformación isoterma y adiabática, sucesión de transformaciones, ciclos. 
 * 07, U02C02P, 11/04/2018: Guía 01
 * 08, U02C03P, 12/04/2018: Ciclos termodinámicos, cuadro de estados, cuadro de transformaciones
 * 09, U02C04V, 19/04/2018: Ciclos termodinámicos 2, ciclos reversibles e irreversibles, eficiencia termodinámica, ciclo de Carnot, eficiencia del ciclo de Carnot, teorema de Carnot
 * 10, U02C05V, 26/04/2018: Máquinas térmicas, trabajo útil, la bomba de agua, Newcomen, Watt, el motor de vapor
 * 11, U02C06V, 03/05/2018: Mejoras de Watt, la máquina de vapor de Watt, indicador de estado y diagrama PV, Ciclo Otto, Ciclo Diesel, muerte térmica, máquina frigorífica, ciclos combinados.
-* 12, U02C07P, 09/05/2018: Guía 03
-* 13, U03C01V, 16/05/2018: Guía 04 y repaso U02.
+* 12, U02C07P, 09/05/2018: Guía 03. Fin unidad 02.
+* 13, U03C01V, 16/05/2018: Guía 04 y repaso 02.
 * 14, U03C02V, 17/05/2018: Segundo principio de la termodinámica. Enunciados de Clausius y Kelvin-Planck. Equivalencia. Máquina frigorífica. Irreversibilidad. Teorema de Carnot. Enunciado de Carnot.
 * 15, U03C03V, 24/05/2018: La heladera. Desigualdad de Clausius. Entropía. La entropía como función de estado. Gibbs. Cambios de estado y cambio de entropía. 
 * 16, U03C04V, 30/05/2018: Transformaciones y cambios de entropía. Procesos isentrópicos. El diagrama T-S. Transformaciones en el diagrama T-S.
 * 17, U03C05V, 31/05/2018: Entropía en aumento. Cambios de entropía del sistema, el medio y el universo. Cambio de entropía en una máquina térmica. El aumento de la entropía y el segundo principio.
 * 18, U03C06V, 06/06/2018: Repaso entropía. Aplicación a casos prácticos. Cambio de entropía por congelamiento de agua.
-* 19, U04C01V, 07/06/2018: Próximamente.
+* 19, U04C01V, 07/06/2018: Incremento de entropía del universo. Segundo principio, Entropía y temperatura absoluta. Interpretación microscópica de la entropía: macroestados y microestados. Definición de entropía de Boltzmann. Tercer principio. La flecha temporal. Móviles perpetuos. Fin unidad 03.
 * 20, U04C02P, 13/06/2018: Próximamente.
 * 21, U03C04V, 14/06/2018: Próximamente.
 * 22, U03C05V, 20/06/2018: Próximamente.
