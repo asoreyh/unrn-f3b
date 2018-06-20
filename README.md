@@ -71,11 +71,11 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 * 16, U03C04V, 30/05/2018: Transformaciones y cambios de entropía. Procesos isentrópicos. El diagrama T-S. Transformaciones en el diagrama T-S.
 * 17, U03C05V, 31/05/2018: Entropía en aumento. Cambios de entropía del sistema, el medio y el universo. Cambio de entropía en una máquina térmica. El aumento de la entropía y el segundo principio.
 * 18, U03C06V, 06/06/2018: Repaso entropía. Aplicación a casos prácticos. Cambio de entropía por congelamiento de agua.
-* 19, U04C01V, 07/06/2018: Incremento de entropía del universo. Segundo principio, Entropía y temperatura absoluta. Interpretación microscópica de la entropía: macroestados y microestados. Definición de entropía de Boltzmann. Tercer principio. La flecha temporal. Móviles perpetuos. Fin unidad 03.
-* 20, U04C02P, 13/06/2018: Próximamente.
-* 21, U03C04V, 14/06/2018: Próximamente.
-* 22, U03C05V, 20/06/2018: Próximamente.
-* 23, U03C06V, 21/06/2018: Próximamente. Fin del curso.
+* 19, U03C07V, 07/06/2018: Incremento de entropía del universo. Segundo principio, Entropía y temperatura absoluta. Interpretación microscópica de la entropía: macroestados y microestados. Definición de entropía de Boltzmann. Tercer principio. La flecha temporal. Móviles perpetuos. Fin unidad 03.
+* 20, U04C01P, 13/06/2018: Repaso entropía. Guía 05.
+* 21, U03C02P, 14/06/2018: Energía y humanidad: nuestro lugar en el Universo, nuestra avidez por el consumo de energía, consumo, desarrollo y fuentes de producción.
+* 22, U03C03V, 20/06/2018: Próximamente.
+* 23, U03C04V, 21/06/2018: Próximamente. Fin del curso.
 
 #### (C) 2018 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
