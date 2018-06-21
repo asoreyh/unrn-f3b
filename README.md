@@ -75,7 +75,9 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 * 20, U04C01P, 13/06/2018: Repaso entropía. Guía 05.
 * 21, U03C02P, 14/06/2018: Energía y humanidad: nuestro lugar en el Universo, nuestra avidez por el consumo de energía, consumo, desarrollo y fuentes de producción.
 * 22, U03C03V, 20/06/2018: Procesos de transferencia de calor. Ley de Newton. Ley de enfriamiento. Conducción de calor. Conductividad térmica. Ley de Fourier. Resistencia térmica. Convección. Aplicaciones.
-* 23, U03C04V, 21/06/2018: Próximamente. Fin del curso.
+* 23, U03C04V, 21/06/2018: Energía y humanidad: consumo de combustibles fósiles. Emisión e evolución de la concentración de CO2. Efecto Invernadero. Gases de efecto invernadero. Cambio climático y calentamiento global. La huella de carbono. Reflexión final.
+
+**Fin curso.**
 
 #### (C) 2018 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
