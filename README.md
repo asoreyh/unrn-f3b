@@ -74,7 +74,7 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 * 19, U03C07V, 07/06/2018: Incremento de entropía del universo. Segundo principio, Entropía y temperatura absoluta. Interpretación microscópica de la entropía: macroestados y microestados. Definición de entropía de Boltzmann. Tercer principio. La flecha temporal. Móviles perpetuos. Fin unidad 03.
 * 20, U04C01P, 13/06/2018: Repaso entropía. Guía 05.
 * 21, U03C02P, 14/06/2018: Energía y humanidad: nuestro lugar en el Universo, nuestra avidez por el consumo de energía, consumo, desarrollo y fuentes de producción.
-* 22, U03C03V, 20/06/2018: Próximamente.
+* 22, U03C03V, 20/06/2018: Procesos de transferencia de calor. Ley de Newton. Ley de enfriamiento. Conducción de calor. Conductividad térmica. Ley de Fourier. Resistencia térmica. Convección. Aplicaciones.
 * 23, U03C04V, 21/06/2018: Próximamente. Fin del curso.
 
 #### (C) 2018 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
