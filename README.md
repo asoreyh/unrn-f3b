@@ -1,7 +1,7 @@
 ![Banner](materiales/banner.png)
-# Física 3 B - Primer semestre de 2018
+# Física III B + Física IV A - Primer semestre de 2018
 
-**Asignatura del quinto semestre de la carrera de Profesorado en Física [Universidad Nacional de Río Negro](http://www.unrn.edu.ar/ "UNRN")**
+**Asignatura de la carrera de Profesorado en Física [Universidad Nacional de Río Negro](http://www.unrn.edu.ar/ "UNRN")**
 
 Las clases fueron realizados en [LibreOffice Impress](https://es.libreoffice.org/descubre/impress/), la herramienta de presentaciones de [LibreOffice](https://es.libreoffice.org/). Para poder visualizar correctamente las clases, por favor descarguelo siguiendo el este enlace: **[Descargue LibreOffice](https://es.libreoffice.org/descarga/libreoffice-estable/)**. En Windows, puede ser necesario descargar también la fuente [Cabin](https://www.fontsquirrel.com/fonts/download/cabin). Para facilitar la difusión, se incluyen también versiones de las clases en formato pdf. Para visualizarlo, podría necesitar descargar [Acrobat Reader](https://get.adobe.com/es/reader).
 
@@ -51,6 +51,7 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 * Michael J. Moran y Howard N. Shapiro, "Fundamentos de Termodinámica Técnica", 2da Edición
 * Cualquier libro de Termodinámica
 
+<!---
 ### Evolución de la cursada
 
 * 01, U01C01P, 08/03/2018: Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Comienzo Módulo 01, unidad 01: Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas
@@ -76,8 +77,8 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 * 21, U03C02P, 14/06/2018: Energía y humanidad: nuestro lugar en el Universo, nuestra avidez por el consumo de energía, consumo, desarrollo y fuentes de producción.
 * 22, U03C03V, 20/06/2018: Procesos de transferencia de calor. Ley de Newton. Ley de enfriamiento. Conducción de calor. Conductividad térmica. Ley de Fourier. Resistencia térmica. Convección. Aplicaciones.
 * 23, U03C04V, 21/06/2018: Energía y humanidad: consumo de combustibles fósiles. Emisión e evolución de la concentración de CO2. Efecto Invernadero. Gases de efecto invernadero. Cambio climático y calentamiento global. La huella de carbono. Reflexiones finales.
-
 **Fin curso.**
+--->
 
 #### (C) 2018 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
