@@ -30,12 +30,16 @@ Ideas alternativas en la termodinámica. El calor como transferencia de energía
 
 ### [Unidad 1: El Calor](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u01)
 **5 encuentros desde el 06/Mar hasta el 22/Mar**
+
 El calor. Gases ideales y reales. Energía interna. Calorimetría. Calor específico. Teoría cinética de los gases. Temperatura: concepto macroscópico y microscópico. Cambios de fase y calor latente.
+
 ***Entrega guía 01: 29/Mar/2019 23:59, próximamente estará aquí el enlace***
 
 ### [Unidad 2: Primer Principio de la Termodinámica](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u02)
 **6 encuentros desde el 25/Mar hasta el 19/Abr**
+
 Calor y trabajo. Equivalente mecánico del calor. Experimento de Joule. Sistemas. Fuentes de calor. Potenciales termodinámicos. Primer principio. Flujo de calor. Muerte térmica. Máquinas térmicas. 
+
 ***Entrega guía 02: 26/Abr/2019 23:59, próximamente estará aquí el enlace***
 
 ## Segundo módulo
@@ -43,12 +47,16 @@ Calor y trabajo. Equivalente mecánico del calor. Experimento de Joule. Sistemas
 
 ### [Unidad 3: Segundo Principio de la Termodinámica](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u03)
 **9 encuentros desde el 22/Abr hasta el 22/May**
+
 Ciclos termodinámicos. Ciclo de Carnot. Eficiencia de una máquina térmica. Segundo principio de la termodinámica. Postulados. Móviles perpetuos. Entropía. Interpretación micro y macroscópica de la entropía. La flecha temporal
+
 ***Entrega guía 03: 29/May/2019 23:59, próximamente estará aquí el enlace***
 
 ### [Unidad 4: Aplicaciones](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u04)
 **8 encuentros desde el 23/May hasta el 21/Jun**
+
 Transferencia de calor: radiación, conducción y convección. Ley de Newton. Conductores y aislantes del calor. Ley de Fourier. Aplicaciones hogareñas. Termodinámica de la vida. Energía y humanidad. Calentamiento global.
+
 ***Entrega guía 04: 26/Jun/2019 11:59, próximamente estará aquí el enlace***
 
 ## Bibliografía obligatoria y complementaria
