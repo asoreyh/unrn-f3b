@@ -7,12 +7,14 @@
 **Dr. Hernán Asorey**
 ***Departamento Física Médica, Centro Atómico Bariloche e Instituto Balseiro, Av. E. Bustillo 9500, (8400) San Carlos de Bariloche, Argentina***
 
+### [Programa de la materia](https://gitlab.com/asoreyh/unrn-f3b/blob/master/materiales/PROGRAMA%20FISICA%20IIIB%20-%20PLAN%202016%20-%202019-2021.pdf)
 
 ### [Clases](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases)
 
 ### [Guías de ejercicios](https://gitlab.com/asoreyh/unrn-f3b/tree/master/guias)
 
 ### [Materiales](https://gitlab.com/asoreyh/unrn-f3b/tree/master/materiales)
+
 
 
 ## Objetivo
