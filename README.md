@@ -26,27 +26,30 @@ Ideas alternativas en la termodinámica. El calor como transferencia de energía
 # Programa
 
 ## Primer módulo
-**Del 08/Mar al 26/Abr** 
+**Del 06/Mar al 19/Abr** 
 
 ### [Unidad 1: El Calor](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u01)
-**7 encuentros desde el 08/Mar hasta el 04/Abr**
+**5 encuentros desde el 06/Mar hasta el 22/Mar**
 El calor. Gases ideales y reales. Energía interna. Calorimetría. Calor específico. Teoría cinética de los gases. Temperatura: concepto macroscópico y microscópico. Cambios de fase y calor latente.
+***Entrega guía 01: 29/Mar/2019 23:59, próximamente estará aquí el enlace***
 
 ### [Unidad 2: Primer Principio de la Termodinámica](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u02)
-**7 encuentros desde el 05/Abr hasta el 26/Abr**
-Calor y trabajo. Equivalente mecánico del calor. Experimento de Joule. Sistemas. Fuentes de calor. Primer principio. Flujo de calor. Muerte térmica. Máquinas térmicas. 
+**6 encuentros desde el 25/Mar hasta el 19/Abr**
+Calor y trabajo. Equivalente mecánico del calor. Experimento de Joule. Sistemas. Fuentes de calor. Potenciales termodinámicos. Primer principio. Flujo de calor. Muerte térmica. Máquinas térmicas. 
+***Entrega guía 02: 26/Abr/2019 23:59, próximamente estará aquí el enlace***
 
 ## Segundo módulo
-**Del 02/May al 21/Jun**
+**Del 22/Abr al 21/Jun**
 
 ### [Unidad 3: Segundo Principio de la Termodinámica](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u03)
-**8 encuentros desde el 02/May hasta el 24/May**
+**9 encuentros desde el 22/Abr hasta el 22/May**
 Ciclos termodinámicos. Ciclo de Carnot. Eficiencia de una máquina térmica. Segundo principio de la termodinámica. Postulados. Móviles perpetuos. Entropía. Interpretación micro y macroscópica de la entropía. La flecha temporal
+***Entrega guía 03: 29/May/2019 23:59, próximamente estará aquí el enlace***
 
 ### [Unidad 4: Aplicaciones](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u04)
-**7 encuentros desde el 30/May hasta el 21/Jun**
+**8 encuentros desde el 23/May hasta el 21/Jun**
 Transferencia de calor: radiación, conducción y convección. Ley de Newton. Conductores y aislantes del calor. Ley de Fourier. Aplicaciones hogareñas. Termodinámica de la vida. Energía y humanidad. Calentamiento global.
-
+***Entrega guía 04: 26/Jun/2019 11:59, próximamente estará aquí el enlace***
 
 ## Bibliografía obligatoria y complementaria
 
@@ -54,6 +57,18 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 * Hugh Young y Roger Freeman, "Sears & Semansky - Física Universitaria", Volumen 1, cualquier edición
 * Michael J. Moran y Howard N. Shapiro, "Fundamentos de Termodinámica Técnica", 2da Edición
 * Cualquier libro de Termodinámica
+
+## Evolución de la cursada
+
+### Horarios:
+* Martes 20:00 a 23:00.
+* Miércoles 17:00 a 20:00 
+
+### Clases:
+
+| **Clase** | **Modalidad** | **Fecha** |  **Hora** | **Contenidos** |
+| :---:   | :---:     | :---: | :---: | :---         |
+| U01C01 | Presencial | Mar 12/Mar/19 | 20:00-23:00 |  |
 
 <!---
 ### Evolución de la cursada
@@ -82,20 +97,8 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 * 22, U03C03V, 20/06/2018: Procesos de transferencia de calor. Ley de Newton. Ley de enfriamiento. Conducción de calor. Conductividad térmica. Ley de Fourier. Resistencia térmica. Convección. Aplicaciones.
 * 23, U03C04V, 21/06/2018: Energía y humanidad: consumo de combustibles fósiles. Emisión e evolución de la concentración de CO2. Efecto Invernadero. Gases de efecto invernadero. Cambio climático y calentamiento global. La huella de carbono. Reflexiones finales.
 **Fin curso.**
---->
+-->
 
-
-## Evolución de la cursada
-
-### Horarios:
-* Martes 20:00 a 23:00.
-* Miércoles 17:00 a 20:00 
-
-### Clases:
-
-| **Clase** | **Modalidad** | **Fecha** |  **Hora** | **Contenidos** |
-| :---:   | :---:     | :---: | :---: | :---         |
-| U01C01 | Presencial | Mar 12/Mar/19 | 20:00-23:00 |  |
 
 ### Sobre las clases:
 
