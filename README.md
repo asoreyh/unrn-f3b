@@ -82,7 +82,6 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U01C02 | Presencial | Jue 14/Mar/19 | 18:00-20:00 | Gases ideales y reales; Teoría cinética de los gases; concepto de temperatura microscópica y macroscópica.
 |
 | U01C03 | Virtual | Mar 19/Mar/19 | 20:00-23:00 | |
-| U01C04 | Virtual | Jue 21/Mar/19 | 18:00-20:00 | |
 
 <!---
 * 03, U01C03P, 21/03/2018: Distribuciones y Práctica Guía 01. 
