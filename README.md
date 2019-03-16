@@ -81,7 +81,6 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U01C01 | Presencial | Mar 12/Mar/19 | 20:00-23:00 | Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas |
 | U01C02 | Presencial | Jue 14/Mar/19 | 18:00-20:00 | Gases ideales y reales; Teoría cinética de los gases; concepto de temperatura microscópica y macroscópica.
 |
-| U01C03 | Virtual | Mar 19/Mar/19 | 20:00-23:00 | |
 
 <!---
 * 03, U01C03P, 21/03/2018: Distribuciones y Práctica Guía 01. 
