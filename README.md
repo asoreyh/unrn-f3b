@@ -78,13 +78,13 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 
 | **Clase** | **Modalidad** | **Fecha** |  **Hora** | **Contenidos** |
 | :---:   | :---:     | :---: | :---: | :---         |
-| U01C01 | Presencial | Mar 12/Mar/19 | 20:00-23:00 |  |
+| U01C01 | Presencial | Mar 12/Mar/19 | 20:00-23:00 | Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas |
+| U01C02 | Presencial | Jue 14/Mar/19 | 18:00-20:00 | Gases ideales y reales; Teoría cinética de los gases; concepto de temperatura microscópica y macroscópica.
+|
+| U01C03 | Virtual | Mar 19/Mar/19 | 20:00-23:00 | |
+| U01C04 | Virtual | Jue 21/Mar/19 | 18:00-20:00 | |
 
 <!---
-### Evolución de la cursada
-
-* 01, U01C01P, 08/03/2018: Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Comienzo Módulo 01, unidad 01: Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas
-* 02, U01C02V, 15/03/2018: Gases ideales y reales; Teoría cinética de los gases; concepto de temperatura microscópica y macroscópica.
 * 03, U01C03P, 21/03/2018: Distribuciones y Práctica Guía 01. 
 * 04, U01C04P, 22/03/2018: Transformaciones; El diagrama P-V; Calor específico, Deducción para gases ideales
 * 05, U01C05V, 04/04/2018: Calor específico en sólidos, Ley de Dulong-Petite, Capacidad Calorífica, Sistema termodinámico, Frontera, Medio, Fases, Cambio de fases, Calor Latente y Calor sensible. Fin unidad 03.
