@@ -85,13 +85,10 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U02C01 | Virtual | Mar 26/Mar/19 | 20:00-23:00 | Primer principio, transformación isoterma y adiabática | 
 | U02C02 | Virtual | Jue 28/Mar/19 | 18:00-20:00 | Repaso U01 y consultas guía 01 |
 | U02C03 | Virtual | Jue 04/Abr/19 | 18:00-20:00 | Sucesión de transformaciones. Ciclos. El ciclo triangular y el ciclo cuadrado. Intercambios de energía entre el sistema y el medio: calor y trabajo netos. Rendimiento |
-
+| U02C04 | Presencial | Mar 09/Mar/19 | 20:00-23:00 | Proceso reversible. Ciclo de Carnot. Rendimiento del ciclo de Carnot. Enunciado del 1er teorema de Carnot. Máquina térmica: definición y ejemplos históricos. Máquina de Newcomen | 
+| U02C05 | Presencial | Jue 11/Mar/19 | 18:00-20:00 | Watt. El regulador centrífugo. Primer motor de Watt. Mecanismo de Watt. La máquina de vapor de Watt. Trabajo Guía 02, problema 24. |
 <!---
 , sucesión de transformaciones, ciclos. 
-* 07, U02C02P, 11/04/2018: Guía 01
-* 08, U02C03P, 12/04/2018: Ciclos termodinámicos, cuadro de estados, cuadro de transformaciones
-* 09, U02C04V, 19/04/2018: Ciclos termodinámicos 2, ciclos reversibles e irreversibles, eficiencia termodinámica, ciclo de Carnot, eficiencia del ciclo de Carnot, teorema de Carnot
-* 10, U02C05V, 26/04/2018: Máquinas térmicas, trabajo útil, la bomba de agua, Newcomen, Watt, el motor de vapor
 * 11, U02C06V, 03/05/2018: Mejoras de Watt, la máquina de vapor de Watt, indicador de estado y diagrama PV, Ciclo Otto, Ciclo Diesel, muerte térmica, máquina frigorífica, ciclos combinados.
 * 12, U02C07P, 09/05/2018: Guía 03. Fin unidad 02.
 * 13, U03C01V, 16/05/2018: Guía 04 y repaso 02.
