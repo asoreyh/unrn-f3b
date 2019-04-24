@@ -87,13 +87,11 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U02C03 | Virtual | Jue 04/Abr/19 | 18:00-20:00 | Sucesión de transformaciones. Ciclos. El ciclo triangular y el ciclo cuadrado. Intercambios de energía entre el sistema y el medio: calor y trabajo netos. Rendimiento |
 | U02C04 | Presencial | Mar 09/Abr/19 | 20:00-23:00 | Proceso reversible. Ciclo de Carnot. Rendimiento del ciclo de Carnot. Enunciado del 1er teorema de Carnot. Máquina térmica: definición y ejemplos históricos. Máquina de Newcomen | 
 | U02C05 | Presencial | Jue 11/Abr/19 | 18:00-20:00 | Watt. El regulador centrífugo. Primer motor de Watt. Mecanismo de Watt. La máquina de vapor de Watt. Trabajo Guía 02, problema 24. |
-| U02C06 | Virtual | Mar 16/Abr/19 | 20:00-23:00 | Mejoras de Watt, la máquina de vapor de Watt, indicador de estado y diagrama PV, Ciclo Otto, Ciclo Diesel, muerte térmica, máquina frigorífica, ciclos combinados. |
+| U02C06 | Virtual | Mar 16/Abr/19 | 20:00-23:00 | Mejoras de Watt, la máquina de vapor de Watt, indicador de estado y diagrama PV, Ciclo Otto, Ciclo Diesel, muerte térmica, máquina frigorífica, ciclos combinados. Fin Unidad 02 |
+| U03C01 | Virtual | Mar 23/Abr/19 | 20:00-23:00 | Máquina frigorífica. La heladera. Segundo principio de la termodinámica. Enunciados de Clausius y Kelvin-Planck. Equivalencia. Irreversibilidad. Teorema de Carnot. Enunciado de Carnot. |
 
 <!---
-* 12, U02C07P, 09/05/2018: Guía 03. Fin unidad 02.
-* 13, U03C01V, 16/05/2018: Guía 04 y repaso 02.
-* 14, U03C02V, 17/05/2018: Segundo principio de la termodinámica. Enunciados de Clausius y Kelvin-Planck. Equivalencia. Máquina frigorífica. Irreversibilidad. Teorema de Carnot. Enunciado de Carnot.
-* 15, U03C03V, 24/05/2018: La heladera. Desigualdad de Clausius. Entropía. La entropía como función de estado. Gibbs. Cambios de estado y cambio de entropía. 
+* 15, U03C03V, 24/05/2018: Desigualdad de Clausius. Entropía. La entropía como función de estado. Gibbs. Cambios de estado y cambio de entropía. 
 * 16, U03C04V, 30/05/2018: Transformaciones y cambios de entropía. Procesos isentrópicos. El diagrama T-S. Transformaciones en el diagrama T-S.
 * 17, U03C05V, 31/05/2018: Entropía en aumento. Cambios de entropía del sistema, el medio y el universo. Cambio de entropía en una máquina térmica. El aumento de la entropía y el segundo principio.
 * 18, U03C06V, 06/06/2018: Repaso entropía. Aplicación a casos prácticos. Cambio de entropía por congelamiento de agua.
