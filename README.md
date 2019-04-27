@@ -91,6 +91,7 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U02C06 | Virtual | Mar 16/Abr/19 | 20:00-23:00 | Mejoras de Watt, la máquina de vapor de Watt, indicador de estado y diagrama PV, Ciclo Otto, Ciclo Diesel, muerte térmica, máquina frigorífica, ciclos combinados. |
 |        |         |               |             | **Fin unidad 02** |
 | U03C01 | Virtual | Mar 23/Abr/19 | 20:00-23:00 | Máquina frigorífica. La heladera. Segundo principio de la termodinámica. Enunciados de Clausius y Kelvin-Planck. Equivalencia. Irreversibilidad. Teorema de Carnot. Enunciado de Carnot. |
+| U03C02 | Virtual | Jue 25/Abr/19 | 18:00-20:00 | consultas guía 02 |
 
 <!---
 * 15, U03C03V, 24/05/2018: Desigualdad de Clausius. Entropía. La entropía como función de estado. Gibbs. Cambios de estado y cambio de entropía. 
