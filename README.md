@@ -92,9 +92,11 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 |        |         |               |             | **Fin unidad 02** |
 | U03C01 | Virtual | Mar 23/Abr/19 | 20:00-23:00 | Máquina frigorífica. La heladera. Segundo principio de la termodinámica. Enunciados de Clausius y Kelvin-Planck. Equivalencia. Irreversibilidad. Teorema de Carnot. Enunciado de Carnot. |
 | U03C02 | Virtual | Jue 25/Abr/19 | 18:00-20:00 | consultas guía 02 |
+| U03C03 | Virtual | Mar 30/Abr/19 | 20:00-23:00 | Desigualdad de Clausius. Entropía. La entropía como función de estado. Primera ecuación de Gibbs. |
 
 <!---
-* 15, U03C03V, 24/05/2018: Desigualdad de Clausius. Entropía. La entropía como función de estado. Gibbs. Cambios de estado y cambio de entropía. 
+
+Cambios de estado y cambio de entropía. 
 * 16, U03C04V, 30/05/2018: Transformaciones y cambios de entropía. Procesos isentrópicos. El diagrama T-S. Transformaciones en el diagrama T-S.
 * 17, U03C05V, 31/05/2018: Entropía en aumento. Cambios de entropía del sistema, el medio y el universo. Cambio de entropía en una máquina térmica. El aumento de la entropía y el segundo principio.
 * 18, U03C06V, 06/06/2018: Repaso entropía. Aplicación a casos prácticos. Cambio de entropía por congelamiento de agua.
