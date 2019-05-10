@@ -94,9 +94,10 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U03C02 | Virtual | Jue 25/Abr/19 | 18:00-20:00 | consultas guía 02 |
 | U03C03 | Virtual | Mar 30/Abr/19 | 20:00-23:00 | Desigualdad de Clausius. Entropía. La entropía como función de estado. Primera ecuación de Gibbs. |
 | U03C04 | Virtual | Jue 02/May/19 | 18:00-20:00 | Transformaciones y cambios de entropía. Procesos isentrópicos. El diagrama T-S. Transformaciones en el diagrama T-S. Entropía en aumento. | 
+| U03C05 | Presencial | Mar 07/May/19 | 20:00-23:00 | Entropía en aumento. Cambios de entropía del sistema, el medio y el universo. Cambio de entropía en una máquina térmica. El aumento de la entropía y el segundo principio. | 
+| U03C06 | Presencial | Jue 09/May/19 | 18:00-20:00 | Trabajamos con la guía 03 |  
 
 <!---
-* 17, U03C05V, 31/05/2018: Entropía en aumento. Cambios de entropía del sistema, el medio y el universo. Cambio de entropía en una máquina térmica. El aumento de la entropía y el segundo principio.
 * 18, U03C06V, 06/06/2018: Repaso entropía. Aplicación a casos prácticos. Cambio de entropía por congelamiento de agua.
 * 19, U03C07V, 07/06/2018: Incremento de entropía del universo. Segundo principio, Entropía y temperatura absoluta. Interpretación microscópica de la entropía: macroestados y microestados. Definición de entropía de Boltzmann. Tercer principio. La flecha temporal. Móviles perpetuos. Fin unidad 03.
 * 20, U04C01P, 13/06/2018: Repaso entropía. Guía 05.
