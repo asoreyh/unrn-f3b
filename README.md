@@ -95,11 +95,14 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U03C03 | Virtual | Mar 30/Abr/19 | 20:00-23:00 | Desigualdad de Clausius. Entropía. La entropía como función de estado. Primera ecuación de Gibbs. |
 | U03C04 | Virtual | Jue 02/May/19 | 18:00-20:00 | Transformaciones y cambios de entropía. Procesos isentrópicos. El diagrama T-S. Transformaciones en el diagrama T-S. Entropía en aumento. | 
 | U03C05 | Presencial | Mar 07/May/19 | 20:00-23:00 | Entropía en aumento. Cambios de entropía del sistema, el medio y el universo. Cambio de entropía en una máquina térmica. El aumento de la entropía y el segundo principio. | 
-| U03C06 | Presencial | Jue 09/May/19 | 18:00-20:00 | Trabajamos con la guía 03 |  
+| U03C06 | Presencial | Jue 09/May/19 | 18:00-20:00 | Cambio de entropía por congelamiento del agua. Trabajamos con la guía 03. |  
+| U03C07 | Virtual | Mar 21/May/19 | 20:00-23:00 | Incremento de entropía del universo. La flecha temporal. Segundo principio, Entropía y temperatura absoluta. Interpretación microscópica de la entropía: macroestados y microestados. | 
+
 
 <!---
-* 18, U03C06V, 06/06/2018: Repaso entropía. Aplicación a casos prácticos. Cambio de entropía por congelamiento de agua.
-* 19, U03C07V, 07/06/2018: Incremento de entropía del universo. Segundo principio, Entropía y temperatura absoluta. Interpretación microscópica de la entropía: macroestados y microestados. Definición de entropía de Boltzmann. Tercer principio. La flecha temporal. Móviles perpetuos. Fin unidad 03.
+| U03C08 | Virtual | Jue 23/May/19 | 18:00-20:00 | Interpretación microscópica de la entropía: macroestados y microestados. Definición de entropía de Boltzmann. Tercer principio. Móviles perpetuos. |  
+|        |         |               |             | **Fin unidad 03** |
+
 * 20, U04C01P, 13/06/2018: Repaso entropía. Guía 05.
 * 21, U03C02P, 14/06/2018: Energía y humanidad: nuestro lugar en el Universo, nuestra avidez por el consumo de energía, consumo, desarrollo y fuentes de producción.
 * 22, U03C03V, 20/06/2018: Procesos de transferencia de calor. Ley de Newton. Ley de enfriamiento. Conducción de calor. Conductividad térmica. Ley de Fourier. Resistencia térmica. Convección. Aplicaciones.
