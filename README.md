@@ -97,19 +97,22 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U03C05 | Presencial | Mar 07/May/19 | 20:00-23:00 | Entropía en aumento. Cambios de entropía del sistema, el medio y el universo. Cambio de entropía en una máquina térmica. El aumento de la entropía y el segundo principio. | 
 | U03C06 | Presencial | Jue 09/May/19 | 18:00-20:00 | Cambio de entropía por congelamiento del agua. Trabajamos con la guía 03. |  
 | U03C07 | Virtual | Mar 21/May/19 | 20:00-23:00 | Incremento de entropía del universo. La flecha temporal. Segundo principio, Entropía y temperatura absoluta. Interpretación microscópica de la entropía: macroestados y microestados. | 
-
-
-<!---
 | U03C08 | Virtual | Jue 23/May/19 | 18:00-20:00 | Interpretación microscópica de la entropía: macroestados y microestados. Definición de entropía de Boltzmann. Tercer principio. Móviles perpetuos. |  
 |        |         |               |             | **Fin unidad 03** |
 
-* 20, U04C01P, 13/06/2018: Repaso entropía. Guía 05.
-* 21, U03C02P, 14/06/2018: Energía y humanidad: nuestro lugar en el Universo, nuestra avidez por el consumo de energía, consumo, desarrollo y fuentes de producción.
+<!---
 * 22, U03C03V, 20/06/2018: Procesos de transferencia de calor. Ley de Newton. Ley de enfriamiento. Conducción de calor. Conductividad térmica. Ley de Fourier. Resistencia térmica. Convección. Aplicaciones.
-* 23, U03C04V, 21/06/2018: Energía y humanidad: consumo de combustibles fósiles. Emisión e evolución de la concentración de CO2. Efecto Invernadero. Gases de efecto invernadero. Cambio climático y calentamiento global. La huella de carbono. Reflexiones finales.
-**Fin curso.**
--->
 
+| U04C01 | Virtual | Mar 28/May/19 | 20:00-23:00 | |
+| U04C02 | Virtual | Jue 30/May/19 | 18:00-20:00 | Consultas guía 03 |
+| U04C03 | Presencial | Mar 04/May/19 | 20:00-23:00 | Energía y humanidad: nuestro lugar en el Universo, nuestra avidez por el consumo de energía, consumo, desarrollo y fuentes de producción. |
+| U04C04 | Presencial | Jue 06/May/19 | 18:00-20:00 | Energía y humanidad: consumo de combustibles fósiles. Emisión e evolución de la concentración de CO2. Efecto Invernadero. Gases de efecto invernadero. Cambio climático y calentamiento global. La huella de carbono. Reflexiones finales. |
+| U04C05 | Virtual | Mar 11/Jun/19 | 20:00-23:00 | |
+| U04C06 | Virtual | Jue 13/Jun/19 | 18:00-20:00 | |
+| U04C07 | Virtual | Mar 18/Jun/19 | 20:00-23:00 | Consultas guía 04. Reflexiones finales |
+|        |         |               |             | **Fin unidad 04** |
+|        |         |               |             | **Fin del curso** |
+-->
 
 ### Sobre las clases:
 
