@@ -100,12 +100,11 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U03C08 | Virtual | Jue 23/May/19 | 18:00-20:00 | Interpretación microscópica de la entropía: macroestados y microestados. Definición de entropía de Boltzmann. Tercer principio. Móviles perpetuos. |  
 | U03C09 | Virtual | Mar 28/May/19 | 20:00-23:00 | Consultas guía 03, ejercicios 39, 41, 42 y 44. | 
 |        |         |               |             | **Fin unidad 03** |
+| U04C01 | Virtual | Jue 30/May/19 | 18:00-20:00 | Procesos de transferencia de calor. Ley de enfriamiento. Ley de Newton. Conducción de calor: materiales aislantes y conductores.|
 
 <!---
 * 22, U03C03V, 20/06/2018: Procesos de transferencia de calor. Ley de Newton. Ley de enfriamiento. Conducción de calor. Conductividad térmica. Ley de Fourier. Resistencia térmica. Convección. Aplicaciones.
 
-| U04C01 | Virtual | Mar 28/May/19 | 20:00-23:00 | |
-| U04C02 | Virtual | Jue 30/May/19 | 18:00-20:00 | Consultas guía 03 |
 | U04C03 | Presencial | Mar 04/May/19 | 20:00-23:00 | Energía y humanidad: nuestro lugar en el Universo, nuestra avidez por el consumo de energía, consumo, desarrollo y fuentes de producción. |
 | U04C04 | Presencial | Jue 06/May/19 | 18:00-20:00 | Energía y humanidad: consumo de combustibles fósiles. Emisión e evolución de la concentración de CO2. Efecto Invernadero. Gases de efecto invernadero. Cambio climático y calentamiento global. La huella de carbono. Reflexiones finales. |
 | U04C05 | Virtual | Mar 11/Jun/19 | 20:00-23:00 | |
