@@ -98,6 +98,7 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U03C06 | Presencial | Jue 09/May/19 | 18:00-20:00 | Cambio de entropía por congelamiento del agua. Trabajamos con la guía 03. |  
 | U03C07 | Virtual | Mar 21/May/19 | 20:00-23:00 | Incremento de entropía del universo. La flecha temporal. Segundo principio, Entropía y temperatura absoluta. Interpretación microscópica de la entropía: macroestados y microestados. | 
 | U03C08 | Virtual | Jue 23/May/19 | 18:00-20:00 | Interpretación microscópica de la entropía: macroestados y microestados. Definición de entropía de Boltzmann. Tercer principio. Móviles perpetuos. |  
+| U03C09 | Virtual | Mar 28/May/19 | 20:00-23:00 | Consultas guía 03, ejercicios 39, 41, 42 y 44. | 
 |        |         |               |             | **Fin unidad 03** |
 
 <!---
