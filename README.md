@@ -74,6 +74,13 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 * Martes 20:00 a 23:00.
 * Jueves 18:00 a 20:00 
 
+
+### Entrega de ejercicios seleccionados:
+* Guía 01: 29/03/2019 23:59:59, ejercicios 5, 8, 14, 16 (opcional), 19 y 21.
+* Guía 02: 26/04/2019 23:59:59, ejercicios 22, 27, 28, 29, 30, 32, 33, 35, 36 y 38. 
+* Guía 03: 31/05/2019 23:59:59, ejercicios 39, 41, 43, 45, 47, 48 (opcional).
+* Guía 04: 25/06/2019 23:59:59, ejercicios a partir del 25/04.
+
 ### Clases:
 
 | **Clase** | **Modalidad** | **Fecha** |  **Hora** | **Contenidos** |
