@@ -111,11 +111,11 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U04C02 | Presencial | Mar 04/Jun/19 | 20:00-23:00 | Energía y humanidad: nuestro lugar en el Universo, nuestra avidez por el consumo de energía, consumo, desarrollo y fuentes de producción. |
 | U04C03 | Presencial | Jue 06/Jun/19 | 18:00-20:00 | Energía y humanidad: consumo de combustibles fósiles. Emisión e evolución de la concentración de CO2. Efecto Invernadero. Gases de efecto invernadero. Cambio climático y calentamiento global. La huella de carbono. Reflexiones finales. |
 | U04C04 | Virtual | Mar 11/Jun/19 | 20:00-23:00 | Procesos de transferencia de calor. Conducción de calor. Conductividad térmica. Ley de Fourier. Resistencia térmica. Convección. Aplicaciones. Radiación. Ley de Wien y Ley de Stefan-Boltzmann. Ley de Newton para la radiación. |
+| U04C05 | Virtual | Jue 13/Jun/19 | 18:00-20:00 | Repaso de transferencia de calor. Trabajo en la guía 04. |
 
 <!---
 
-| U04C06 | Virtual | Jue 13/Jun/19 | 18:00-20:00 | |
-| U04C07 | Virtual | Mar 18/Jun/19 | 20:00-23:00 | Consultas guía 04. Reflexiones finales |
+| U04C06 | Virtual | Mar 18/Jun/19 | 20:00-23:00 | Consultas guía 04. Reflexiones finales |
 |        |         |               |             | **Fin unidad 04** |
 |        |         |               |             | **Fin del curso** |
 -->
