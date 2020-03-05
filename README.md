@@ -1,6 +1,6 @@
 ![Banner](materiales/banner.png)
 
-# Física III B - Primer semestre de 2019
+# Física III B - Primer semestre de 2020
 
 **Asignatura de la carrera de Profesorado en Física [Universidad Nacional de Río Negro](http://www.unrn.edu.ar/ "UNRN")**
 
@@ -28,38 +28,38 @@ Ideas alternativas en la termodinámica. El calor como transferencia de energía
 # Programa
 
 ## Primer módulo
-**Del 06/Mar al 16/Abr** 
+[//]: # **Del 06/Mar al 16/Abr** 
 
 ### [Unidad 1: El Calor](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u01)
-**5 encuentros desde el 06/Mar hasta el 21/Mar**
+[//]: # **5 encuentros desde el 06/Mar hasta el 21/Mar**
 
 El calor. Gases ideales y reales. Energía interna. Calorimetría. Calor específico. Teoría cinética de los gases. Temperatura: concepto macroscópico y microscópico. Cambios de fase y calor latente.
 
-***Entrega guía 01: 29/Mar/2019 23:59***
+[//]: # ***Entrega guía 01: 29/Mar/2019 23:59***
 
 ### [Unidad 2: Primer Principio de la Termodinámica](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u02)
-**6 encuentros desde el 26/Mar hasta el 16/Abr**
+[//]: # **6 encuentros desde el 26/Mar hasta el 16/Abr**
 
 Calor y trabajo. Equivalente mecánico del calor. Experimento de Joule. Sistemas. Fuentes de calor. Potenciales termodinámicos. Primer principio. Flujo de calor. Muerte térmica. Máquinas térmicas. 
 
-***Entrega guía 02: 26/Abr/2019 23:59***
+[//]: # ***Entrega guía 02: 26/Abr/2019 23:59***
 
 ## Segundo módulo
-**Del 23/Abr al 20/Jun**
+[//]: # **Del 23/Abr al 20/Jun**
 
 ### [Unidad 3: Segundo Principio de la Termodinámica](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u03)
-**9 encuentros desde el 23/Abr hasta el 28/May**
+[//]: # **9 encuentros desde el 23/Abr hasta el 28/May**
 
 Ciclos termodinámicos. Ciclo de Carnot. Eficiencia de una máquina térmica. Segundo principio de la termodinámica. Postulados. Móviles perpetuos. Entropía. Interpretación micro y macroscópica de la entropía. La flecha temporal
 
-***Entrega guía 03: 29/May/2019 23:59***
+[//]: # ***Entrega guía 03: 29/May/2019 23:59***
 
 ### [Unidad 4: Aplicaciones](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u04)
-**6 encuentros desde el 30/May hasta el 20/Jun**
+[//]: # **6 encuentros desde el 30/May hasta el 20/Jun**
 
 Transferencia de calor: radiación, conducción y convección. Ley de Newton. Conductores y aislantes del calor. Ley de Fourier. Aplicaciones hogareñas. Termodinámica de la vida. Energía y humanidad. Calentamiento global.
 
-***Entrega guía 04: 25/Jun/2019 23:59***
+[//]: # ***Entrega guía 04: 25/Jun/2019 23:59***
 
 ## Bibliografía obligatoria y complementaria
 
@@ -71,19 +71,22 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 ## Evolución de la cursada
 
 ### Horarios:
-* Martes 20:00 a 23:00.
-* Jueves 18:00 a 20:00 
+* Martes 20:30 a 23:00.
+* Jueves 17:00 a 19:30 
 
 ### Entrega de ejercicios seleccionados:
-* Guía 01: 29/03/2019 23:59:59, ejercicios 5, 8, 14, 16 (opcional), 19 y 21.
-* Guía 02: 26/04/2019 23:59:59, ejercicios 22, 27, 28, 29, 30, 32, 33, 35, 36 y 38. 
-* Guía 03: 31/05/2019 23:59:59, ejercicios 39, 41, 43, 45, 47, 48 (opcional).
-* Guía 04: 25/06/2019 23:59:59, ejercicios 49, 50, 51, 52, 53, 54, 55.
+* Guía 01: [//]: # 29/03/2019 23:59:59, ejercicios 5, 8, 14, 16 (opcional), 19 y 21.
+* Guía 02: [//]: # 26/04/2019 23:59:59, ejercicios 22, 27, 28, 29, 30, 32, 33, 35, 36 y 38. 
+* Guía 03: [//]: # 31/05/2019 23:59:59, ejercicios 39, 41, 43, 45, 47, 48 (opcional).
+* Guía 04: [//]: # 25/06/2019 23:59:59, ejercicios 49, 50, 51, 52, 53, 54, 55.
 
 ### Clases:
 
 | **Clase** | **Modalidad** | **Fecha** |  **Hora** | **Contenidos** |
 | :---:   | :---:     | :---: | :---: | :---         |
+
+<!--
+
 | U01C01 | Presencial | Mar 12/Mar/19 | 20:00-23:00 | Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas |
 | U01C02 | Presencial | Jue 14/Mar/19 | 18:00-20:00 | Gases ideales y reales; Teoría cinética de los gases; concepto de temperatura microscópica y macroscópica; deducción de la ecuación de estado de los gases ideales |
 | U01C03 | Virtual | Mar 19/Mar/19 | 20:00-23:00 | Transformaciones; El diagrama P-V; Calor específico, Deducción para gases ideales | 
@@ -115,11 +118,13 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 |        |         |               |             | **Fin unidad 04** |
 |        |         |               |             | **Fin del curso** |
 
+-->
+
 ### Sobre las clases:
 
 Las clases fueron realizados en [LibreOffice Impress](https://es.libreoffice.org/descubre/impress/), la herramienta de presentaciones de [LibreOffice](https://es.libreoffice.org/). Para poder visualizar correctamente las clases, por favor descárguelo siguiendo este enlace: **[Descargue LibreOffice](https://es.libreoffice.org/descarga/libreoffice-estable/)**. En Windows, puede ser necesario descargar también la fuente [Cabin](https://www.fontsquirrel.com/fonts/download/cabin). Para facilitar la difusión, se incluyen también versiones de las clases en formato pdf. Para visualizarlo, podría necesitar descargar [Acrobat Reader](https://get.adobe.com/es/reader).
 
 ### Licencia
-**Física III B (Termodinámica)**, (c) por Hernán Asorey, 2018, 2019.
+**Física III B (Termodinámica)**, (c) por Hernán Asorey, 2018, 2019, 2020.
 <br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 <br />Este trabajo se distribuye en forma gratuita bajo la licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>. Debería haber recibido una copia de la licencia junto con este trabajo (cc-by-nc-sa-40-legalcode.txt). En su defecto, visite <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es</a>.
