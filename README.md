@@ -71,6 +71,7 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 ## Evolución de la cursada
 
 ### Horarios:
+
 * Martes 20:30 a 23:00.
 * Jueves 17:00 a 19:30 
 
@@ -84,7 +85,7 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 ### Clases:
 
 | **Clase** | **Modalidad** | **Fecha** |  **Hora** | **Contenidos** |
-| :---:   | :---:     | :---: | :---: | :---         |
+| :---:     | :---:         | :---:     | :---:     | :---           |
 | U01C01 | Presencial | Mar 10/Mar/20 | 20:00-23:00 | Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas |
 | U01C02 | Presencial | Jue 12/Mar/20 | 17:00-19:30 | Gases ideales y reales; Teoría cinética de los gases; concepto de temperatura microscópica y macroscópica; deducción de la ecuación de estado de los gases ideales |
 
