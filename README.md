@@ -75,21 +75,21 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 * Jueves 17:00 a 19:30 
 
 ### Entrega de ejercicios seleccionados:
-<!--
-* Guía 01: 29/03/2019 23:59:59, ejercicios 5, 8, 14, 16 (opcional), 19 y 21.
-* Guía 02: 26/04/2019 23:59:59, ejercicios 22, 27, 28, 29, 30, 32, 33, 35, 36 y 38. 
-* Guía 03: 31/05/2019 23:59:59, ejercicios 39, 41, 43, 45, 47, 48 (opcional).
-* Guía 04: 25/06/2019 23:59:59, ejercicios 49, 50, 51, 52, 53, 54, 55.
--->
+
+* Guía 01: 03/04/2020 23:59:59, lista de ejercicios: 27/03/2020
+* Guía 02: 01/05/2020 23:59:59, lista de ejercicios: 24/04/2020
+* Guía 03: 05/06/2020 23:59:59, lista de ejercicios: 29/05/2020
+* Guía 04: 26/06/2020 23:59:59, lista de ejercicios: 19/06/2020
+
 ### Clases:
 
 | **Clase** | **Modalidad** | **Fecha** |  **Hora** | **Contenidos** |
 | :---:   | :---:     | :---: | :---: | :---         |
+| U01C01 | Presencial | Mar 10/Mar/20 | 20:00-23:00 | Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas |
+| U01C02 | Presencial | Jue 12/Mar/20 | 17:00-19:30 | Gases ideales y reales; Teoría cinética de los gases; concepto de temperatura microscópica y macroscópica; deducción de la ecuación de estado de los gases ideales |
 
 <!--
 
-| U01C01 | Presencial | Mar 12/Mar/19 | 20:00-23:00 | Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas |
-| U01C02 | Presencial | Jue 14/Mar/19 | 18:00-20:00 | Gases ideales y reales; Teoría cinética de los gases; concepto de temperatura microscópica y macroscópica; deducción de la ecuación de estado de los gases ideales |
 | U01C03 | Virtual | Mar 19/Mar/19 | 20:00-23:00 | Transformaciones; El diagrama P-V; Calor específico, Deducción para gases ideales | 
 | U01C04 | Virtual | Jue 21/Mar/19 | 18:00-20:00 | Calor específico en sólidos, Ley de Dulong-Petite, Capacidad Calorífica, Sistema termodinámico, Frontera, Medio, Fases, Cambio de fases, Calor Latente y Calor sensible.|
 |        |         |               |             | **Fin unidad 01** |
