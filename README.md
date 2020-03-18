@@ -91,7 +91,9 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U01C03 | Virtual | Mar 17/Mar/20 | 20:30-23:00 | Teoría cinética de los gases; el Helio en la atmósfera; distribuciones de probabilidad; distribución de Maxwel-Boltzmann |
 
 <!--
-Transformaciones; El diagrama P-V; Calor específico, Deducción para gases ideales | 
+| U01C04 | Virtual | Jue 19/Mar/20 | 17:30-20:00 | Transformaciones; El diagrama P-V; Calor específico, Deducción para gases ideales; Calor específico en sólidos, Ley de Dulong-Petite, Capacidad Calorífica.|
+
+
 | U01C04 | Virtual | Jue 21/Mar/19 | 18:00-20:00 | Calor específico en sólidos, Ley de Dulong-Petite, Capacidad Calorífica, Sistema termodinámico, Frontera, Medio, Fases, Cambio de fases, Calor Latente y Calor sensible.|
 |        |         |               |             | **Fin unidad 01** |
 | U02C01 | Virtual | Mar 26/Mar/19 | 20:00-23:00 | Primer principio, transformación isoterma y adiabática | 
