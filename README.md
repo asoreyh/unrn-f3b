@@ -88,10 +88,10 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | :---:     | :---:         | :---:     | :---:     | :---           |
 | U01C01 | Presencial | Mar 10/Mar/20 | 20:00-23:00 | Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas |
 | U01C02 | Presencial | Jue 12/Mar/20 | 17:00-19:30 | Gases ideales y reales; Teoría cinética de los gases; concepto de temperatura microscópica y macroscópica; deducción de la ecuación de estado de los gases ideales |
+| U01C03 | Virtual | Mar 17/Mar/20 | 20:30-23:00 | Teoría cinética de los gases; el Helio en la atmósfera; distribuciones de probabilidad; distribución de Maxwel-Boltzmann |
 
 <!--
-
-| U01C03 | Virtual | Mar 19/Mar/19 | 20:00-23:00 | Transformaciones; El diagrama P-V; Calor específico, Deducción para gases ideales | 
+Transformaciones; El diagrama P-V; Calor específico, Deducción para gases ideales | 
 | U01C04 | Virtual | Jue 21/Mar/19 | 18:00-20:00 | Calor específico en sólidos, Ley de Dulong-Petite, Capacidad Calorífica, Sistema termodinámico, Frontera, Medio, Fases, Cambio de fases, Calor Latente y Calor sensible.|
 |        |         |               |             | **Fin unidad 01** |
 | U02C01 | Virtual | Mar 26/Mar/19 | 20:00-23:00 | Primer principio, transformación isoterma y adiabática | 
