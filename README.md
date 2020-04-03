@@ -92,8 +92,10 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U01C04 | Virtual | Jue 19/Mar/20 | 17:00-19:30 | Transformaciones; El diagrama P-V; Calor específico; Deducción para gases ideales monoatómicos; Calor específico a volumen y a presión; Atomicidad y Grados de libertad; Calores específicos de gases ideales y reales |
 | U01C05 | Virtual | Jue 26/Mar/19 | 17:00-19:30 | Calor específico en sólidos, Ley de Dulong-Petite, Capacidad Calorífica, Sistema termodinámico, Frontera, Medio, Fases, Cambio de fases, Calor Latente y Calor sensible.|
 |        |         |               |             | **Fin unidad 01** |
+| U02C01 | Virtual | Jue 02/Abr/20 | 17:00-19:30 | Primer principio, transformación isoterma |
 
 <!--
+
 | U02C01 | Virtual | Mar 26/Mar/19 | 20:00-23:00 | Primer principio, transformación isoterma y adiabática | 
 | U02C02 | Virtual | Jue 28/Mar/19 | 18:00-20:00 | Repaso U01 y consultas guía 01 |
 | U02C03 | Virtual | Jue 04/Abr/19 | 18:00-20:00 | Sucesión de transformaciones. Ciclos. El ciclo triangular y el ciclo cuadrado. Intercambios de energía entre el sistema y el medio: calor y trabajo netos. Rendimiento |
