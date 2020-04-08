@@ -93,9 +93,9 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U01C05 | Virtual | Jue 26/Mar/19 | 17:00-19:30 | Calor específico en sólidos, Ley de Dulong-Petite, Capacidad Calorífica, Sistema termodinámico, Frontera, Medio, Fases, Cambio de fases, Calor Latente y Calor sensible.|
 |        |         |               |             | **Fin unidad 01** |
 | U02C01 | Virtual | Jue 02/Abr/20 | 17:00-19:30 | Primer principio, transformación isoterma |
+| U02C02 | Virtual | Mar 07/Abr/20 | 20:30-23:00 | Transformación adiabática. Sucesión de transformaciones. Ciclos. El ciclo triangular y el ciclo cuadrado. Intercambios de energía entre el sistema y el medio: calor y trabajo netos. Rendimiento |
 
 <!--
-| U02C02 | Virtual | Mar 07/Abr/20 | 20:30-23:00 | Transformación adiabática. Sucesión de transformaciones. Ciclos. El ciclo triangular y el ciclo cuadrado. Intercambios de energía entre el sistema y el medio: calor y trabajo netos. Rendimiento |
 | U02C04 | Presencial | Mar 09/Abr/19 | 20:00-23:00 | Proceso reversible. Ciclo de Carnot. Rendimiento del ciclo de Carnot. Enunciado del 1er teorema de Carnot. Máquina térmica: definición y ejemplos históricos. Máquina de Newcomen | 
 | U02C05 | Presencial | Jue 11/Abr/19 | 18:00-20:00 | Watt. El regulador centrífugo. Primer motor de Watt. Mecanismo de Watt. La máquina de vapor de Watt. Trabajo Guía 02, problema 24. |
 | U02C06 | Virtual | Mar 16/Abr/19 | 20:00-23:00 | Mejoras de Watt, la máquina de vapor de Watt, indicador de estado y diagrama PV, Ciclo Otto, Ciclo Diesel, muerte térmica, máquina frigorífica, ciclos combinados. |
