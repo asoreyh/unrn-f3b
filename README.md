@@ -93,9 +93,8 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U02C07 | Virtual | Mar 28/Abr/20 | 20:30-23:00 | Ciclos con nombre propio y máquinas térmicas: el ciclo Otto y el motor de combustión interna a nafta; el ciclo Diesel y el motor de combustión interna a gasoil; el ciclo Rankine y la turbina de vapor. Trabajamos en la guia 02. |
 | U02C08 | Virtual | Jue 30/Abr/20 | 17:00-19:30 | Trabajamos con consultas sobre la guía 02. |
 |        |         |               |             | **Fin unidad 02** |
-
-<!--
 | U03C01 | Virtual | Mar 05/May/20 | 20:30-23:00 | Segundo principio de la termodinámica. Enunciados de Clausius y Kelvin-Planck. Equivalencia. Irreversibilidad. Teorema de Carnot. Enunciado de Carnot. Equivalencia de los tres enunciados |
+<!--
 | U03C02 | Virtual | Jue 25/Abr/19 | 18:00-20:00 | consultas guía 02 |
 | U03C03 | Virtual | Mar 30/Abr/19 | 20:00-23:00 | Desigualdad de Clausius. Entropía. La entropía como función de estado. Primera ecuación de Gibbs. |
 | U03C04 | Virtual | Jue 02/May/19 | 18:00-20:00 | Transformaciones y cambios de entropía. Procesos isentrópicos. El diagrama T-S. Transformaciones en el diagrama T-S. Entropía en aumento. | 
