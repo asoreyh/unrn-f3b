@@ -95,10 +95,11 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 |        |         |               |             | **Fin unidad 02** |
 | U03C01 | Virtual | Mar 05/May/20 | 20:30-23:00 | Segundo principio de la termodinámica. Enunciados de Clausius y Kelvin-Planck. Equivalencia. Irreversibilidad. Teorema de Carnot. Enunciado de Carnot. Equivalencia de los tres enunciados |
 | U03C02 | Virtual | Jue 07/May/20 | 17:00-19:30 | Desigualdad de Clausius. Entropía. La entropía como función de estado. |
+| U03C03 | Virtual | Mar 12/May/20 | 20:30-23:00 | Transformaciones y cambios de entropía. Procesos isentrópicos. El diagrama T-S. Transformaciones en el diagrama T-S. Entropía en aumento. | 
+| U03C04 | Presencial | Mar 19/May/19 | 20:30-23:00 | Entropía en aumento. Cambios de entropía del sistema, el medio y el universo. Cambio de entropía en una máquina térmica. El aumento de la entropía y el segundo principio. |
+| U03C05 | Virtual | Jue 21/May/19 | 17:00-19:30 | Incremento de entropía del universo. La flecha temporal. Segundo principio, Entropía y temperatura absoluta. Aumento de entropía y rendimiento térmico | 
+| U03C06 | Virtual | Mar 26/May/19 | 20:30-23:00 | Consultas guías 03: ejercicios 40 y 41 | 
 <!--
-| U03C04 | Virtual | Jue 02/May/19 | 18:00-20:00 | Transformaciones y cambios de entropía. Procesos isentrópicos. El diagrama T-S. Transformaciones en el diagrama T-S. Entropía en aumento. | 
-| U03C05 | Presencial | Mar 07/May/19 | 20:00-23:00 | Entropía en aumento. Cambios de entropía del sistema, el medio y el universo. Cambio de entropía en una máquina térmica. El aumento de la entropía y el segundo principio. | 
-| U03C06 | Presencial | Jue 09/May/19 | 18:00-20:00 | Cambio de entropía por congelamiento del agua. Trabajamos con la guía 03. |  
 | U03C07 | Virtual | Mar 21/May/19 | 20:00-23:00 | Incremento de entropía del universo. La flecha temporal. Segundo principio, Entropía y temperatura absoluta. Interpretación microscópica de la entropía: macroestados y microestados. | 
 | U03C08 | Virtual | Jue 23/May/19 | 18:00-20:00 | Interpretación microscópica de la entropía: macroestados y microestados. Definición de entropía de Boltzmann. Tercer principio. Móviles perpetuos. |  
 | U03C09 | Virtual | Mar 28/May/19 | 20:00-23:00 | Consultas guía 03, ejercicios 39, 41, 42 y 44. | 
