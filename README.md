@@ -70,8 +70,8 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 ### Entrega de ejercicios seleccionados:
 
 * Guía 01: 03/04/2020 23:59:59, lista de ejercicios: 2, 5, 8, 9, 14, 15, 16, 19, 21
-* Guía 02: 01/05/2020 23:59:59, lista de ejercicios: 24/04/2020
-* Guía 03: 05/06/2020 23:59:59, lista de ejercicios: 29/05/2020
+* Guía 02: 01/05/2020 23:59:59, lista de ejercicios: 22, 23, 27, 30, 32, 34, 35, 36, 37 
+* Guía 03: 05/06/2020 23:59:59, lista de ejercicios: 39, 41, 42, 44, 45, 49
 * Guía 04: 26/06/2020 23:59:59, lista de ejercicios: 19/06/2020
 
 ### Clases:
@@ -96,15 +96,17 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U03C01 | Virtual | Mar 05/May/20 | 20:30-23:00 | Segundo principio de la termodinámica. Enunciados de Clausius y Kelvin-Planck. Equivalencia. Irreversibilidad. Teorema de Carnot. Enunciado de Carnot. Equivalencia de los tres enunciados |
 | U03C02 | Virtual | Jue 07/May/20 | 17:00-19:30 | Desigualdad de Clausius. Entropía. La entropía como función de estado. |
 | U03C03 | Virtual | Mar 12/May/20 | 20:30-23:00 | Transformaciones y cambios de entropía. Procesos isentrópicos. El diagrama T-S. Transformaciones en el diagrama T-S. Entropía en aumento. | 
-| U03C04 | Presencial | Mar 19/May/19 | 20:30-23:00 | Entropía en aumento. Cambios de entropía del sistema, el medio y el universo. Cambio de entropía en una máquina térmica. El aumento de la entropía y el segundo principio. |
-| U03C05 | Virtual | Jue 21/May/19 | 17:00-19:30 | Incremento de entropía del universo. La flecha temporal. Segundo principio, Entropía y temperatura absoluta. Aumento de entropía y rendimiento térmico | 
-| U03C06 | Virtual | Mar 26/May/19 | 20:30-23:00 | Consultas guías 03: ejercicios 40 y 41 | 
+| U03C04 | Presencial | Mar 19/May/20 | 20:30-23:00 | Entropía en aumento. Cambios de entropía del sistema, el medio y el universo. Cambio de entropía en una máquina térmica. El aumento de la entropía y el segundo principio. |
+| U03C05 | Virtual | Jue 21/May/20 | 17:00-19:30 | Incremento de entropía del universo. La flecha temporal. Segundo principio, Entropía y temperatura absoluta. Aumento de entropía y rendimiento térmico | 
+| U03C06 | Virtual | Mar 26/May/20 | 20:30-23:00 | Consultas guías 03: ejercicios 40 y 41 | 
+| U03C07 | Virtual | Jue 28/May/20 | 17:00-19:30 | Interpretación microscópica de la entropía: macroestados, microestados y multiplicidad. Definición de entropía de Boltzmann. |
 <!--
-| U03C07 | Virtual | Mar 21/May/19 | 20:00-23:00 | Incremento de entropía del universo. La flecha temporal. Segundo principio, Entropía y temperatura absoluta. Interpretación microscópica de la entropía: macroestados y microestados. | 
-| U03C08 | Virtual | Jue 23/May/19 | 18:00-20:00 | Interpretación microscópica de la entropía: macroestados y microestados. Definición de entropía de Boltzmann. Tercer principio. Móviles perpetuos. |  
-| U03C09 | Virtual | Mar 28/May/19 | 20:00-23:00 | Consultas guía 03, ejercicios 39, 41, 42 y 44. | 
+| U03C08 | Virtual | Mar 02/Jun/20 | 20:30-23:00 | Tercer principio. Móviles perpetuos. |  
 |        |         |               |             | **Fin unidad 03** |
-| U04C01 | Virtual | Jue 30/May/19 | 18:00-20:00 | Procesos de transferencia de calor. Ley de enfriamiento. Ley de Newton. Conducción de calor: materiales aislantes y conductores.|
+| U04C01 | Virtual | Mar 02/Jun/20 | 20:30-23:00 | Procesos de transferencia de calor. Ley de enfriamiento. Ley de Newton. Conducción de calor: materiales aislantes y conductores.|
+
+
+
 | U04C02 | Presencial | Mar 04/Jun/19 | 20:00-23:00 | Energía y humanidad: nuestro lugar en el Universo, nuestra avidez por el consumo de energía, consumo, desarrollo y fuentes de producción. |
 | U04C03 | Presencial | Jue 06/Jun/19 | 18:00-20:00 | Energía y humanidad: consumo de combustibles fósiles. Emisión e evolución de la concentración de CO2. Efecto Invernadero. Gases de efecto invernadero. Cambio climático y calentamiento global. La huella de carbono. Reflexiones finales. |
 | U04C04 | Virtual | Mar 11/Jun/19 | 20:00-23:00 | Procesos de transferencia de calor. Conducción de calor. Conductividad térmica. Ley de Fourier. Resistencia térmica. Convección. Aplicaciones. Radiación. Ley de Wien y Ley de Stefan-Boltzmann. Ley de Newton para la radiación. |
