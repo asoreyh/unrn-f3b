@@ -100,18 +100,18 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U03C05 | Virtual | Jue 21/May/20 | 17:00-19:30 | Incremento de entropía del universo. La flecha temporal. Segundo principio, Entropía y temperatura absoluta. Aumento de entropía y rendimiento térmico | 
 | U03C06 | Virtual | Mar 26/May/20 | 20:30-23:00 | Consultas guías 03: ejercicios 40 y 41 | 
 | U03C07 | Virtual | Jue 28/May/20 | 17:00-19:30 | Interpretación microscópica de la entropía: macroestados, microestados y multiplicidad. Definición de entropía de Boltzmann. |
-<!--
 | U03C08 | Virtual | Mar 02/Jun/20 | 20:30-23:00 | Tercer principio. Móviles perpetuos. |  
 |        |         |               |             | **Fin unidad 03** |
-| U04C01 | Virtual | Mar 02/Jun/20 | 20:30-23:00 | Procesos de transferencia de calor. Ley de enfriamiento. Ley de Newton. Conducción de calor: materiales aislantes y conductores.|
+| U04C01 | Virtual | Jue 04/Jun/20 | 17:00-19:30 | Procesos de transferencia de calor. Ley de enfriamiento. Ley de Newton. Conducción, convección y radiación, introducción | 
 
+<!--
+| U04C02 | Virtual | Mar 09/Jun/20 | 20:30-23:00 | Procesos de transferencia de calor. Conducción de calor. Conductividad térmica. Ley de Fourier. Resistencia térmica. Convección. Aplicaciones. Radiación. Ley de Wien y Ley de Stefan-Boltzmann. Ley de Newton para la radiación. |
 
 
 | U04C02 | Presencial | Mar 04/Jun/19 | 20:00-23:00 | Energía y humanidad: nuestro lugar en el Universo, nuestra avidez por el consumo de energía, consumo, desarrollo y fuentes de producción. |
 | U04C03 | Presencial | Jue 06/Jun/19 | 18:00-20:00 | Energía y humanidad: consumo de combustibles fósiles. Emisión e evolución de la concentración de CO2. Efecto Invernadero. Gases de efecto invernadero. Cambio climático y calentamiento global. La huella de carbono. Reflexiones finales. |
-| U04C04 | Virtual | Mar 11/Jun/19 | 20:00-23:00 | Procesos de transferencia de calor. Conducción de calor. Conductividad térmica. Ley de Fourier. Resistencia térmica. Convección. Aplicaciones. Radiación. Ley de Wien y Ley de Stefan-Boltzmann. Ley de Newton para la radiación. |
 | U04C05 | Virtual | Jue 13/Jun/19 | 18:00-20:00 | Repaso de transferencia de calor. Trabajo en la guía 04. |
-| U04C06 | Virtual | Mar 18/Jun/19 | 20:00-23:00 | Los cuatro jinetes. Termodinámica en sistemas vivos, una primera aproximación. |
+| U03C06 | Virtual | Mar 18/Jun/19 | 20:00-23:00 | Los cuatro jinetes. Termodinámica en sistemas vivos, una primera aproximación. |
 |        |         |               |             | **Fin unidad 04** |
 |        |         |               |             | **Fin del curso** |
 
