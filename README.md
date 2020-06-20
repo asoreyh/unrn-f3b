@@ -72,7 +72,9 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 * Guía 01: 03/04/2020 23:59:59, lista de ejercicios: 2, 5, 8, 9, 14, 15, 16, 19, 21
 * Guía 02: 01/05/2020 23:59:59, lista de ejercicios: 22, 23, 27, 30, 32, 34, 35, 36, 37 
 * Guía 03: 05/06/2020 23:59:59, lista de ejercicios: 39, 41, 42, 44, 45, 49
-* Guía 04: 26/06/2020 23:59:59, lista de ejercicios: 19/06/2020
+* Guía 04: 26/06/2020 23:59:59, lista de ejercicios: 51, 52, 53, 54, 56
+
+***Por la situación actual de público conocimiento, las fechas de entrega de ejercicios se prorrogan hasta el fin del semestre*** 
 
 ### Clases:
 
@@ -105,11 +107,12 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U04C01 | Virtual | Jue 04/Jun/20 | 17:00-19:30 | Procesos de transferencia de calor. Ley de enfriamiento. Ley de Newton. Conducción, convección y radiación, introducción | 
 | U04C02 | Virtual | Mar 09/Jun/20 | 20:30-23:00 | Procesos de transferencia de calor. Conducción de calor. Conductividad térmica. Ley de Fourier. Resistencia térmica. Convección. Aplicaciones. Radiación. Ley de Wien y Ley de Stefan-Boltzmann. Ley de Newton para la radiación. |
 | U04C03 | Virtual | Jue 11/Jun/20 | 17:00-19:30 | Resistencia térmica. Convección. Aplicaciones. Radiación. Ley de Wien y Ley de Stefan-Boltzmann. Ley de Newton para la radiación.|
+| U04C04 | Virtual | Mar 16/Jun/20 | 20:30-23:00 | Repaso Ley de Newton, Ley de Fourier y Radiación. Trabajamos en la guía 04. |
+| U04C05 | Virtual | Jue 18/Jun/20 | 17:00-19:30 | Energía y humanidad: nuestro lugar en el Universo, nuestra avidez por el consumo de energía, consumo, desarrollo y fuentes de producción. Consumo de combustibles fósiles |
 
 <!--
-| U04C02 | Presencial | Mar 04/Jun/19 | 20:00-23:00 | Energía y humanidad: nuestro lugar en el Universo, nuestra avidez por el consumo de energía, consumo, desarrollo y fuentes de producción. |
-| U04C03 | Presencial | Jue 06/Jun/19 | 18:00-20:00 | Energía y humanidad: consumo de combustibles fósiles. Emisión e evolución de la concentración de CO2. Efecto Invernadero. Gases de efecto invernadero. Cambio climático y calentamiento global. La huella de carbono. Reflexiones finales. |
-| U03C06 | Virtual | Mar 18/Jun/19 | 20:00-23:00 | Los cuatro jinetes. Termodinámica en sistemas vivos, una primera aproximación. |
+| U04C06 | Virtual | Mar 23/Jun/20 | 20:30-23:00 | Energía y humanidad: consumo de combustibles fósiles. Emisión e evolución de la concentración de CO2. Efecto Invernadero. Gases de efecto invernadero. Cambio climático y calentamiento global. La huella de carbono. Reflexiones finales. |
+| U04C07 | Virtual | Jue 25/Jun/20 | 17:00-19:30 | Los cuatro jinetes. Termodinámica en sistemas vivos, una primera aproximación. |
 |        |         |               |             | **Fin unidad 04** |
 |        |         |               |             | **Fin del curso** |
 
