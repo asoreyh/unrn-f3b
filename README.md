@@ -109,14 +109,10 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U04C03 | Virtual | Jue 11/Jun/20 | 17:00-19:30 | Resistencia térmica. Convección. Aplicaciones. Radiación. Ley de Wien y Ley de Stefan-Boltzmann. Ley de Newton para la radiación.|
 | U04C04 | Virtual | Mar 16/Jun/20 | 20:30-23:00 | Repaso Ley de Newton, Ley de Fourier y Radiación. Trabajamos en la guía 04. |
 | U04C05 | Virtual | Jue 18/Jun/20 | 17:00-19:30 | Energía y humanidad: nuestro lugar en el Universo, nuestra avidez por el consumo de energía, consumo, desarrollo y fuentes de producción. Consumo de combustibles fósiles |
-
-<!--
 | U04C06 | Virtual | Mar 23/Jun/20 | 20:30-23:00 | Energía y humanidad: consumo de combustibles fósiles. Emisión e evolución de la concentración de CO2. Efecto Invernadero. Gases de efecto invernadero. Cambio climático y calentamiento global. La huella de carbono. Reflexiones finales. |
 | U04C07 | Virtual | Jue 25/Jun/20 | 17:00-19:30 | Los cuatro jinetes. Termodinámica en sistemas vivos, una primera aproximación. |
 |        |         |               |             | **Fin unidad 04** |
 |        |         |               |             | **Fin del curso** |
-
--->
 
 ### Sobre las clases:
 
