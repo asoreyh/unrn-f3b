@@ -113,7 +113,6 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U04C07 | Virtual | Jue 25/Jun/20 | 17:00-19:30 | Los cuatro jinetes. Termodinámica en sistemas vivos, una primera aproximación. |
 |        |         |               |             | **Fin unidad 04** |
 |        |         |               |             | **Fin del curso** |
-| :---:     | :---:         | :---:     | :---:     | :---           |
 
 ### Sobre las clases:
 
