@@ -1,11 +1,13 @@
 ![Banner](materiales/banner.png)
 
-# Física III B - Primer semestre de 2020
+# Física III B - Primer semestre de 2021
 
 **Asignatura de la carrera de Profesorado en Física [Universidad Nacional de Río Negro](http://www.unrn.edu.ar/ "UNRN")**
 
 **Dr. Hernán Asorey**
-***Departamento Física Médica, Centro Atómico Bariloche e Instituto Balseiro, Av. E. Bustillo 9500, (8400) San Carlos de Bariloche, Argentina***
+***Departamento Física Médica, Centro Atómico Bariloche; y Escuela de Producción, Tecnología y Medio Ambiente, Sede Andina, Universidad Nacional de Río Negro, San Carlos de Bariloche, Argentina***
+**Prof. Miguel Angel Calderón**
+***Escuela de Producción, Tecnología y Medio Ambiente Sede Andina, Universidad Nacional de Río Negro, San Carlos de Bariloche, Argentina***
 
 [[_TOC_]]
 
@@ -20,38 +22,38 @@ Ideas alternativas en la termodinámica. El calor como transferencia de energía
 # Programa
 
 ## Primer módulo
-**Del 10/Mar al 23/Abr** 
+**Del 09/Mar al 13/Abr** 
 
 ### [Unidad 1: El Calor](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u01)
-**5 encuentros desde el 10/Mar hasta el 26/Mar**
+**6 encuentros desde el 09/Mar hasta el 25/Mar**
 
 El calor. Gases ideales y reales. Energía interna. Calorimetría. Calor específico. Teoría cinética de los gases. Temperatura: concepto macroscópico y microscópico. Cambios de fase y calor latente.
 
-***Entrega guía 01: 03/Abr/2020 23:59***
+***Entrega guía 01: 02/Abr/2021 23:59***
 
 ### [Unidad 2: Primer Principio de la Termodinámica](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u02)
-**6 encuentros desde el 31/Mar hasta el 23/Abr**
+**7 encuentros desde el 30/Mar hasta el 20/Abr**
 
 Calor y trabajo. Equivalente mecánico del calor. Experimento de Joule. Sistemas. Fuentes de calor. Potenciales termodinámicos. Primer principio. Flujo de calor. Muerte térmica. Máquinas térmicas. 
 
-***Entrega guía 02: 01/May/2020 23:59***
+***Entrega guía 02: 30/Abr/2021 23:59***
 
 ## Segundo módulo
-**Del 28/Abr al 26/Jun**
+**Del 22/Abr al 24/Jun**
 
 ### [Unidad 3: Segundo Principio de la Termodinámica](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u03)
-**10 encuentros desde el 28/Abr hasta el 28/May**
+**10 encuentros desde el 22/Abr hasta el 27/May**
 
 Ciclos termodinámicos. Ciclo de Carnot. Eficiencia de una máquina térmica. Segundo principio de la termodinámica. Postulados. Móviles perpetuos. Entropía. Interpretación micro y macroscópica de la entropía. La flecha temporal
 
-***Entrega guía 03: 05/Jun/2020 23:59***
+***Entrega guía 03: 04/Jun/2021 23:59***
 
 ### [Unidad 4: Aplicaciones](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u04)
-**6 encuentros desde el 02/Jun hasta el 25/Jun**
+**8 encuentros desde el 01/Jun hasta el 24/Jun**
 
 Transferencia de calor: radiación, conducción y convección. Ley de Newton. Conductores y aislantes del calor. Ley de Fourier. Aplicaciones hogareñas. Termodinámica de la vida. Energía y humanidad. Calentamiento global.
 
-***Entrega guía 04: 26/Jun/2020 23:59*** 
+***Entrega guía 04: 25/Jun/2021 23:59*** 
 
 ## Bibliografía obligatoria y complementaria
 
@@ -69,18 +71,18 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 
 ### Entrega de ejercicios seleccionados:
 
-* Guía 01: 03/04/2020 23:59:59, lista de ejercicios: 2, 5, 8, 9, 14, 15, 16, 19, 21
-* Guía 02: 01/05/2020 23:59:59, lista de ejercicios: 22, 23, 27, 30, 32, 34, 35, 36, 37 
-* Guía 03: 05/06/2020 23:59:59, lista de ejercicios: 39, 41, 42, 44, 45, 49
-* Guía 04: 26/06/2020 23:59:59, lista de ejercicios: 51, 52, 53, 54, 56
-
-***Por la situación actual de público conocimiento, las fechas de entrega de ejercicios se prorrogan hasta el fin del semestre*** 
+* Guía 01: 02/04/2021 23:59:59, lista de ejercicios:
+* Guía 02: 30/04/2021 23:59:59, lista de ejercicios:
+* Guía 03: 04/06/2021 23:59:59, lista de ejercicios:
+* Guía 04: 25/06/2021 23:59:59, lista de ejercicios:
 
 ### Clases:
 
 | **Clase** | **Modalidad** | **Fecha** |  **Hora** | **Contenidos** |
 | :---:     | :---:         | :---:     | :---:     | :---           |
-| U01C01 | Presencial | Mar 10/Mar/20 | 20:00-23:00 | Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas |
+
+<!-- 
+| U01C01 | Virtual | Mar 09/Mar/21 | 20:00-23:00 | Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas |
 | U01C02 | Presencial | Jue 12/Mar/20 | 17:00-19:30 | Gases ideales y reales; Teoría cinética de los gases; concepto de temperatura microscópica y macroscópica; deducción de la ecuación de estado de los gases ideales |
 | U01C03 | Virtual | Mar 17/Mar/20 | 20:30-23:00 | Teoría cinética de los gases; el Helio en la atmósfera; distribuciones de probabilidad; distribución de Maxwel-Boltzmann |
 | U01C04 | Virtual | Jue 19/Mar/20 | 17:00-19:30 | Transformaciones; El diagrama P-V; Calor específico; Deducción para gases ideales monoatómicos; Calor específico a volumen y a presión; Atomicidad y Grados de libertad; Calores específicos de gases ideales y reales |
@@ -113,12 +115,13 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U04C07 | Virtual | Jue 25/Jun/20 | 17:00-19:30 | Los cuatro jinetes. Termodinámica en sistemas vivos, una primera aproximación. |
 |        |         |               |             | **Fin unidad 04** |
 |        |         |               |             | **Fin del curso** |
+-->
 
 ### Sobre las clases:
 
 Las clases fueron realizados en [LibreOffice Impress](https://es.libreoffice.org/descubre/impress/), la herramienta de presentaciones de [LibreOffice](https://es.libreoffice.org/). Para poder visualizar correctamente las clases, por favor descárguelo siguiendo este enlace: **[Descargue LibreOffice](https://es.libreoffice.org/descarga/libreoffice-estable/)**. En Windows, puede ser necesario descargar también la fuente [Cabin](https://www.fontsquirrel.com/fonts/download/cabin). Para facilitar la difusión, se incluyen también versiones de las clases en formato pdf. Para visualizarlo, podría necesitar descargar [Acrobat Reader](https://get.adobe.com/es/reader).
 
 ### Licencia
-**Física III B (Termodinámica)**, (c) por Hernán Asorey, 2018, 2019, 2020.
+**Física III B (Termodinámica)**, (c) por Hernán Asorey, 2018, 2019, 2020, 2021.
 <br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 <br />Este trabajo se distribuye en forma gratuita bajo la licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>. Debería haber recibido una copia de la licencia junto con este trabajo (cc-by-nc-sa-40-legalcode.txt). En su defecto, visite <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es</a>.
