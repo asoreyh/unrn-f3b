@@ -4,9 +4,9 @@
 
 **Asignatura de la carrera de Profesorado en Física [Universidad Nacional de Río Negro](http://www.unrn.edu.ar/ "UNRN")**
 
-**Dr. Hernán Asorey**
+* **Dr. Hernán Asorey**
 ***Departamento Física Médica, Centro Atómico Bariloche; y Escuela de Producción, Tecnología y Medio Ambiente, Sede Andina, Universidad Nacional de Río Negro, San Carlos de Bariloche, Argentina***
-**Prof. Miguel Angel Calderón**
+* **Prof. Miguel Angel Calderón**
 ***Escuela de Producción, Tecnología y Medio Ambiente Sede Andina, Universidad Nacional de Río Negro, San Carlos de Bariloche, Argentina***
 
 [[_TOC_]]
