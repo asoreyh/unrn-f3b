@@ -81,15 +81,16 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | **Clase** | **Modalidad** | **Fecha** |  **Hora** | **Contenidos** |
 | :---:     | :---:         | :---:     | :---:     | :---           |
 | U01C01 | Virtual | Mar 09/Mar/21 | 20:00-23:00 | Presentación, introducción, objetivos, metodología, contenidos mínimos, página web, clases presenciales y virtuales. Termodinámica, Calor, Temperatura, Principio Cero de la Termodinámica, Escalas de temperaturas |
-| U01C02 | Virtual | Jue 11/Mar/20 | 18:00-20:00 | Gases ideales y reales |
-| U01C03 | Virtual | Jue 18/Mar/20 | 18:00-20:00 | Práctica sobre ejercicios Guía 01 |
-| U01C04 | Virtual | Mar 23/Mar/21 | 20:00-23:00 |  Teoría cinética de los gases; concepto de temperatura microscópica y macroscópica; deducción de la ecuación de estado de los gases ideales  el Helio en la atmósfera | 
-<!-- 
-distribuciones de probabilidad; distribución de Maxwel-Boltzmann |
-| U01C04 | Virtual | Jue 19/Mar/20 | 17:00-19:30 | Transformaciones; El diagrama P-V; Calor específico; Deducción para gases ideales monoatómicos; Calor específico a volumen y a presión; Atomicidad y Grados de libertad; Calores específicos de gases ideales y reales |
-| U01C05 | Virtual | Jue 26/Mar/19 | 17:00-19:30 | Calor específico en sólidos, Ley de Dulong-Petite, Capacidad Calorífica, Sistema termodinámico, Frontera, Medio, Fases, Cambio de fases, Calor Latente y Calor sensible.|
+| U01C02 | Virtual | Jue 11/Mar/21 | 18:00-20:00 | Gases ideales y reales |
+| U01    | Virtual | Jue 18/Mar/21 | 18:00-20:00 | Práctica sobre ejercicios Guía 01 |
+| U01C03 | Virtual | Mar 23/Mar/21 | 20:00-23:00 | Teoría cinética de los gases; concepto de temperatura microscópica y macroscópica; deducción de la ecuación de estado de los gases ideales  el Helio en la atmósfera | 
+| U01C04 | Virtual | Jue 25/Mar/21 | 18:00-20:00 | Transformaciones; El diagrama P-V; Energía Interna | 
+| U01C05 | Virtual | Mar 30/Mar/21 | 20:00-23:00 | Energía Interna; Calor específico; Deducción para gases ideales monoatómicos; Calor específico a volumen y a presión; Atomicidad y Grados de libertad; Calores específicos de gases ideales y reales |
+| U01C06 | Virtual | Mar 06/Abr/21 | 18:00-20:00 | Calor específico en sólidos, Ley de Dulong-Petite, Capacidad Calorífica, Sistema termodinámico, Frontera, Medio, Fases, Cambio de fases, Calor Latente y Calor sensible.|
+| U01    | Virtual | Mie 07/Abr/21 | 20:00-23:00 | Consulta sobre ejercicios Guía 01 |
 |        |         |               |             | **Fin unidad 01** |
-| U02C01 | Virtual | Jue 02/Abr/20 | 17:00-19:30 | Primer principio, transformación isoterma |
+| U02C01 | Virtual | Jue 08/Abr/21 | 18:00-20:00 | Ejercicio 15b; Primer principio, transformación isoterma |
+<!-- 
 | U02C02 | Virtual | Mar 07/Abr/20 | 20:30-23:00 | Transformación adiabática. Sucesión de transformaciones. Ciclos. El ciclo triangular y el ciclo cuadrado. Intercambios de energía entre el sistema y el medio: calor y trabajo netos. Rendimiento |
 | U02C03 | Virtual | Mar 14/Abr/20 | 20:30-23:00 | Proceso reversible. Ciclo de Carnot. Rendimiento del ciclo de Carnot. Enunciado del 1er teorema de Carnot. Máquina térmica: definición |
 | U02C04 | Virtual | Jue 16/Abr/20 | 17:00-19:30 | Máquinas térmicas: ejemplos históricos. Máquina de Newcomen. Mr. Watt. El regulador centrífugo. |
