@@ -22,34 +22,34 @@ Ideas alternativas en la termodinámica. El calor como transferencia de energía
 # Programa
 
 ## Primer módulo
-**Del 09/Mar al 13/Abr** 
+**Del 09/Mar al 29/Abr** 
 
 ### [Unidad 1: El Calor](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u01)
-**6 encuentros desde el 09/Mar hasta el 25/Mar**
+**6 encuentros desde el 09/Mar hasta el 06/Mar**
 
 El calor. Gases ideales y reales. Energía interna. Calorimetría. Calor específico. Teoría cinética de los gases. Temperatura: concepto macroscópico y microscópico. Cambios de fase y calor latente.
 
-***Entrega guía 01: 02/Abr/2021 23:59***
+***Entrega guía 01: 12/Abr/2021 23:59***
 
 ### [Unidad 2: Primer Principio de la Termodinámica](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u02)
-**7 encuentros desde el 30/Mar hasta el 20/Abr**
+**7 encuentros desde el 08/Abr hasta el 29/Abr**
 
 Calor y trabajo. Equivalente mecánico del calor. Experimento de Joule. Sistemas. Fuentes de calor. Potenciales termodinámicos. Primer principio. Flujo de calor. Muerte térmica. Máquinas térmicas. 
 
-***Entrega guía 02: 30/Abr/2021 23:59***
+***Entrega guía 02: 07/May/2021 23:59***
 
 ## Segundo módulo
-**Del 22/Abr al 24/Jun**
+**Del 04/May al 24/Jun**
 
 ### [Unidad 3: Segundo Principio de la Termodinámica](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u03)
-**10 encuentros desde el 22/Abr hasta el 27/May**
+**10 encuentros desde el 04/May hasta el 01/Jun**
 
 Ciclos termodinámicos. Ciclo de Carnot. Eficiencia de una máquina térmica. Segundo principio de la termodinámica. Postulados. Móviles perpetuos. Entropía. Interpretación micro y macroscópica de la entropía. La flecha temporal
 
-***Entrega guía 03: 04/Jun/2021 23:59***
+***Entrega guía 03: 07/Jun/2021 23:59***
 
 ### [Unidad 4: Aplicaciones](https://gitlab.com/asoreyh/unrn-f3b/tree/master/clases/u04)
-**8 encuentros desde el 01/Jun hasta el 24/Jun**
+**8 encuentros desde el 03/Jun hasta el 24/Jun**
 
 Transferencia de calor: radiación, conducción y convección. Ley de Newton. Conductores y aislantes del calor. Ley de Fourier. Aplicaciones hogareñas. Termodinámica de la vida. Energía y humanidad. Calentamiento global.
 
