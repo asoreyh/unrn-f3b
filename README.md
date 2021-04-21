@@ -90,9 +90,14 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U01    | Virtual | Mie 07/Abr/21 | 20:00-23:00 | Consulta sobre ejercicios Guía 01 |
 |        |         |               |             | **Fin unidad 01** |
 | U02C01 | Virtual | Jue 08/Abr/21 | 18:00-20:00 | Ejercicio 15b; Primer principio, transformación isoterma |
+| U02C02 | Virtual | Mar 13/Abr/21 | 20:00-23:00 | Transformaciones isotérmicas y adiabáticas. Sucesión de transformaciones. Ciclos. Cuadro de estados y cuadro de transformaciones. El ciclo triangular. |
+| U02C03 | Virtual | Jue 15/Abr/21 | 18:00-20:00 | Repaso. Sucesión de transformaciones y ciclos. Ciclo "cuadrado". Intercambios de calor y trabajo con el medio. Rendimiento. |
+| U02C04 | Virtual | Mar 20/Abr/21 | 20:00-23:00 | Proceso reversible. Ciclo de Carnot. Rendimiento del ciclo de Carnot. Enunciado del 1er teorema de Carnot. Máquina térmica: definición y ejemplos históricos. Máquina de Newcomen. | 
+
 <!-- 
-| U02C02 | Virtual | Mar 07/Abr/20 | 20:30-23:00 | Transformación adiabática. Sucesión de transformaciones. Ciclos. El ciclo triangular y el ciclo cuadrado. Intercambios de energía entre el sistema y el medio: calor y trabajo netos. Rendimiento |
-| U02C03 | Virtual | Mar 14/Abr/20 | 20:30-23:00 | Proceso reversible. Ciclo de Carnot. Rendimiento del ciclo de Carnot. Enunciado del 1er teorema de Carnot. Máquina térmica: definición |
+Mr. Watt. El regulador centrífugo. |
+
+
 | U02C04 | Virtual | Jue 16/Abr/20 | 17:00-19:30 | Máquinas térmicas: ejemplos históricos. Máquina de Newcomen. Mr. Watt. El regulador centrífugo. |
 | U02C05 | Virtual | Mar 21/Abr/20 | 20:30-23:00 | Trabajamos en la guía sobre dos ejercicios de ciclo de Carnot, ejercicios 28 y 29 |
 | U02C06 | Virtual | Jue 23/Abr/20 | 17:00-19:30 | Máquinas térmicas: primer motor de Watt. Mecanismo de Watt. La máquina de vapor de Watt. Indicador de estado y diagrama PV, muerte térmica, máquina frigorífica, ciclos combinados. |
