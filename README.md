@@ -92,15 +92,12 @@ Transferencia de calor: radiación, conducción y convección. Ley de Newton. Co
 | U02C01 | Virtual | Jue 08/Abr/21 | 18:00-20:00 | Ejercicio 15b; Primer principio, transformación isoterma |
 | U02C02 | Virtual | Mar 13/Abr/21 | 20:00-23:00 | Transformaciones isotérmicas y adiabáticas. Sucesión de transformaciones. Ciclos. Cuadro de estados y cuadro de transformaciones. El ciclo triangular. |
 | U02C03 | Virtual | Jue 15/Abr/21 | 18:00-20:00 | Repaso. Sucesión de transformaciones y ciclos. Ciclo "cuadrado". Intercambios de calor y trabajo con el medio. Rendimiento. |
-| U02C04 | Virtual | Mar 20/Abr/21 | 20:00-23:00 | Proceso reversible. Ciclo de Carnot. Rendimiento del ciclo de Carnot. Enunciado del 1er teorema de Carnot. Máquina térmica: definición y ejemplos históricos. Máquina de Newcomen. | 
+| U02C04 | Virtual | Mar 20/Abr/21 | 20:00-23:00 | Proceso reversible. Ciclo de Carnot. Rendimiento del ciclo de Carnot. Enunciado del 1er teorema de Carnot. Máquina térmica: definición y ejemplos históricos: Eolípila, las puertas del templo, el sifón japonés para café, la bomba de agua, el moline, la máquina de Newcomen |
 
 <!-- 
-Mr. Watt. El regulador centrífugo. |
+| U02C05 | Virtual | Jue 22/Abr/21 | 18:00-20:00 | Mr. Watt. El regulador centrífugo. Primer motor de Watt. Mecanismo de Watt. La máquina de vapor de Watt. Indicador de estado y diagrama PV, muerte térmica, máquina frigorífica, ciclos combinados. |
 
 
-| U02C04 | Virtual | Jue 16/Abr/20 | 17:00-19:30 | Máquinas térmicas: ejemplos históricos. Máquina de Newcomen. Mr. Watt. El regulador centrífugo. |
-| U02C05 | Virtual | Mar 21/Abr/20 | 20:30-23:00 | Trabajamos en la guía sobre dos ejercicios de ciclo de Carnot, ejercicios 28 y 29 |
-| U02C06 | Virtual | Jue 23/Abr/20 | 17:00-19:30 | Máquinas térmicas: primer motor de Watt. Mecanismo de Watt. La máquina de vapor de Watt. Indicador de estado y diagrama PV, muerte térmica, máquina frigorífica, ciclos combinados. |
 | U02C07 | Virtual | Mar 28/Abr/20 | 20:30-23:00 | Ciclos con nombre propio y máquinas térmicas: el ciclo Otto y el motor de combustión interna a nafta; el ciclo Diesel y el motor de combustión interna a gasoil; el ciclo Rankine y la turbina de vapor. Trabajamos en la guia 02. |
 | U02C08 | Virtual | Jue 30/Abr/20 | 17:00-19:30 | Trabajamos con consultas sobre la guía 02. |
 |        |         |               |             | **Fin unidad 02** |
