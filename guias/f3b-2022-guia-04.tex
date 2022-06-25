@@ -1,0 +1,180 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[spanish]{babel}
+\hyphenation{co-rres-pon-dien-te}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[pdftex,colorlinks=true, pdfstartview=FitH, linkcolor=blue,
+citecolor=blue, urlcolor=blue, pdfpagemode=UseOutlines, pdfauthor={H. Asorey},
+pdftitle={F3B - Guía 04}]{hyperref}
+\usepackage[adobe-utopia]{mathdesign}
+
+\hoffset -1.23cm
+\textwidth 16.5cm
+\voffset -3.5cm
+\textheight 26.5cm
+
+%----------------------------------------------------------------
+\begin{document}
+\title{
+{\normalsize{Universidad Nacional de Río Negro - Profesorado de Física}}\\
+Física 3B 2022 \\ Guía 04: Aplicaciones
+}
+\author{Asorey}
+\date{07 de Junio de 2022}
+\maketitle
+
+\begin{enumerate}
+	\setcounter{enumi}{49}     
+
+	\item{\bf{Tibio, tibio...}}
+
+		Considere una pared de espesor $d=0.15$\,m hecha con un vidrio especial
+		que tiene las siguientes propiedades: Conductividad térmica
+		$k=0.78$\,W\,m$^{-1}$\,K$^{-1}$; Densidad $\rho = 2700$\,kg\,m$^{-3}$;
+		Calor específico $C_p = 0.84$\,kJ\,kg$^{-1}$\,K$^{-1}$.  Las caras de
+		esa pared se mantienen a $T_i=29.5^\mathrm{o}$C y
+		$T_e=18.0^\mathrm{o}$C respectivamente. Determine el flujo de calor por
+		metro cuadrado a través de la pared.
+		\\{\bf{R}}: $I_Q=-60$\,W/m$^2$.
+	
+	\item{\bf{Patinando en el cerro}}
+		
+		Durante el invierno, en la superficie de la laguna Frey se forma una
+		capa de hielo ($k=2$\,W\,m$^{-1}$\,K$^{-1}$) de $d=0.25$\,m de espesor.
+		Sabiendo que: la temperatura media del aire sobre el hielo es de
+		$T_\mathrm{ext}=272$\,K; la temperatura media del agua bajo el hielo es
+		de $T_\mathrm{int}=277$\,K; La superficie de la laguna es de
+		$S=100$\,m$^2$ y la profundidad media es de $h=10$\,m; y es posible
+		despreciar la radiación solar. Calcule:
+		\begin{enumerate}
+			\item la cantidad de calor por segundo que pierde la laguna al
+				aire circundante;
+			\item el tiempo necesario para que la temperatura del agua líquida
+				descienda a $2$\,$^\mathrm{o}$C.
+			\item el tiempo necesario para que la laguna llegue a $273$\,K
+				desde el caso anterior.
+			\item el cambio de entropía del universo debido a este último proceso.
+		\end{enumerate}
+		{\bf{R}}: a) $I_Q=-4$\,kW; b) $\tau=60.53$\,días, entonces
+		$t=30.53$\,días. c) $t=66.5$\,días. d) $\Delta
+		S_{\mathrm{agua}}=-30,54$\,MJ/K; $\Delta
+		S_{\mathrm{aire}}=+30,764$\,MJ/K; $\Delta S_{\mathrm{U}}=+224,4$\,kJ/K
+		(es irreversible);
+	
+	\item{\bf{Refrigeración}}
+		
+		Una casa fabricada con paredes de mampostería
+		($k=0.8$\,W\,m$^{-1}$\,K$^{-1}$, $d=0.20$\,m) tiene una superficie
+		total de paredes de $200$\,m$^2$. Suponemos que en esta casa todas las
+		pérdidas importantes se dan a través de las mismas, considerando al
+		techo, a los cimientos y a las aberturas como aislantes perfectos
+		($k=0$).  En verano, la temperatura exterior es
+		$T_{\mathrm{amb}}=308$\,K y se pretende que la interior sea
+		$T_{i}=293$\,K. El arquitecto dispone de varios equipos de aire
+		acondicionado de $2500$\,W de consumo eléctrico y una eficiencia
+		frigorífica de $0.75$.
+		\begin{enumerate}
+			\item Calcule qué cantidad de calor por segundo ingresa a la casa.
+			\item Determine el número de equipos de aire necesarios para lograr
+				el objetivo.
+			\item Calcule la temperatura de equilibrio una vez que los equipos
+				estén instalados.
+		\end{enumerate}
+		{\bf{R}}: a) $I_Q=12$\,kW. b) $n=6,4$\,equipos, entonces instalará 6
+		ó 7. c) Si usa 6, $T_{\mathrm{int}}=294$\,K; si usa 7,
+		$T_{\mathrm{int}}=291,6$\,K. 
+	
+	\item{\bf{Aislantes}}
+		
+		En Bariloche se quiere construir una casa cuyas paredes cubren un área
+		total de $150$\,m$^2$ y están hechas de un material multicapa. El mismo
+		consiste en (de afuera hacia adentro):
+		\begin{enumerate}
+			\item Placa cementicia, $k=0.8$; $d=0.008$\,m;
+			\item Placa de madera, $k=0.5$; $d=0.015$\,m;
+			\item Aire, $k=0.02$; $d=0.02$\,m;
+			\item Lana de vidrio, $k=0.04$; $d=0.07$\,m;
+			\item Placa de yeso, $k=0.7$; $d=0.013$\,m.
+		\end{enumerate}
+		Suponemos que en esta casa todas las pérdidas importantes se dan a
+		través de las paredes, considerando al techo, a los cimientos y a las
+		aberturas como aislantes perfectos ($k=0$). En invierno, la temperatura
+		exterior es $T_{\mathrm{amb}}=270$\,K, mientras que en verano es
+		$T_{\mathrm{amb,v}}=310$\,K, y se desea que durante todo el año la
+		temperatura interior sea $T_i=293$\,K.
+		\begin{enumerate}
+			\item Determine la resistencia equivalente $\rho$ de las paredes de
+				la casa.
+			\item Calcule la pérdida de calor que sufre la casa en invierno, y
+				el ingreso de calor que experimenta en verano. 
+			\item Determine el número de estufas de $1500$\,kcal/hora que
+				deberán instalarse para mantener la temperatura interior
+				deseada durante el invierno ($1$\,kcal\,hora$^{-1}$ =
+				$1.16$\,W).
+			\item Calcule la temperatura de equilibrio una vez que la(s)
+				estufa(s) funciona(n).
+		\end{enumerate}
+		{\bf{R}}: a) $R_{\mathrm{eq}}=0,0187$\,K/W. b) $I_Q=-1228$\,W;
+		$I_Q=908$\,W. c) Con $1$ estufa sobra. d) $T_{\mathrm{int}}=302$\,K.
+	
+	\item {\bf{Uy, ¡que frío!}}
+		
+		Una cámara frigorífica debe mantener una temperatura de
+		$T_i=-25^\mathrm{o}$\,C con una temperatura exterior de
+		$T_2=30^\mathrm{o}$\,C. La pared de la cámara se construye de la
+		siguiente manera:
+		\begin{itemize}
+			\item Revoque de $2$\,cm de espesor
+				($k=0.9$\,W\,m$^{-1}$\,K$^{-1}$).
+			\item Ladrillo macizo de $25$\,cm ($k=0.7$\,W\,m$^{-1}$\,K$^{-1}$).
+			\item Telgopor de $x$\,cm ($k=0.06$\,W\,m$^{-1}$\,K$^{-1}$).
+			\item Revoque de $2$\,cm de espesor
+				($k=0.9$\,W\,m$^{-1}$\,K$^{-1}$).
+		\end{itemize}
+		Si la pérdida de calor no debe superar las $12$\,W\,m$^{-2}$, se pide
+		determinar:
+		\begin{enumerate}
+			\item El coeficiente global de transmisión de calor que debe tener
+				la pared.
+			\item El espesor de Telgopor que debe colocarse.
+		\end{enumerate}
+		{\bf{R}}: a) $R_{\mathrm{eq}}=4,583$\,K\,m$^2$/W (notar que es por
+		unidad de superficie). b) $x=25$\,cm. 
+
+	\item {\bf{Resistencias}}
+
+		Demuestre las expresiones obtenidas en clase para el caso de las
+		resistencias térmicas en paralelo. Luego proponga un ejemplo práctico
+		de uso de las mismas. 
+		\\{\bf{R}}: $\frac{1}{R_{\mathrm{eq}}}=\sum\limits_{i=1}^N \frac{1}{R_i}$. 
+	
+	\item {\bf{Aislaciones}}
+		
+		Se debe calefaccionar una casa cuya superficie total expuesta es
+		$A=200$\,m$^2$, y se pretende limitar el consumo de gas a
+		$G=260$\,m$^3$ mensuales, manteniendo la casa a $T_i=293$\,K, aún en
+		julio cuando la temperatura exterior es $T_e=263$\,K. La calefacción
+		funcionará en forma continua las 24 horas.
+		
+		Las paredes de la casa son de mampostería revocada
+		($k=0.9$\,W\,m$^{-1}$\,K$^{-1}$) de $0.2$\,m de espesor, y se colocará
+		una capa interna de lana de vidrio ($k=0.08$\,W\,m$^{-1}$\,K$^{-1}$) de
+		$x$\,m de espesor, revestida con placas de Durlok
+		($k=0.3$\,W\,m$^{-1}$\,K$^{-1}$) de $0.01$\,m de espesor.
+		
+		Determine:
+		\begin{enumerate}
+			\item la potencia disipada máxima admisible para esta casa
+			\item el coeficiente global de transmisión de calor que debe tener
+				la pared.
+			\item el espesor $x$ de lana de vidrio que debe colocarse.
+		\end{enumerate}
+		Recuerde: el poder calorífico del gas es $3,5\times 10^7$\,J/m$^3$; los
+		segundos en un mes son:$24\times3600\times30$\,s$=2592000$\,segundos
+		por mes.
+		\\{\bf{R}}: a) $I_Q=3511$\,W. b) $R_{\mathrm{eq}}=0,00856$\,K/W para
+		toda la casa. c) $x=11,6$\,cm$\simeq 12$\,cm.
+\end{enumerate}
+\end{document}
+%%%%
