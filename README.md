@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/507577887.svg)](https://doi.org/10.5281/zenodo.14589579)
+
 ![Banner](materiales/banner.png)
 
 # Física III B - Primer semestre de 2022
