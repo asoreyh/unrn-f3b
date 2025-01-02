@@ -9,6 +9,14 @@
 
 [[_TOC_]]
 
+## Información importante
+
+Este commit correponde a la última edición del curso, correspondiente a la Cohorte 2022. Con este commit y release se da por cerrado el repositorio.
+
+![Banner](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png)
+
+Todo este material ha sido liberado utilizando una licencia de dominio público creative commons [CC0-1.0-Universal](https://creativecommons.org/publicdomain/zero/1.0/). Por favor revise los [términos de la licencia](#licencia) antes de su uso.
+
 ## Objetivo
 
 Construir un marco de trabajo conceptual sobre la termodinámica en general; los principios y leyes que regulan los mecanismos de transferencia de calor; y la importancia y problemas asociados a la termodinámica en la actualidad.
@@ -61,5 +69,5 @@ Las clases fueron realizados en [LibreOffice Impress](https://es.libreoffice.org
 
 ### Licencia
 **Física III B (Termodinámica)**, (c) por Hernán Asorey, 2018, 2019, 2020, 2021, 2022.
-<br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-<br />Este trabajo se distribuye en forma gratuita bajo la licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>. Debería haber recibido una copia de la licencia junto con este trabajo (cc-by-nc-sa-40-legalcode.txt). En su defecto, visite <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es</a>.
+
+<br /><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/asoreyh/unrn-f3b/">Introducción a la Termodinámica (Física III B - UNRN)</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/asoreyh/">Hernán Asorey</a> is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0 Universal<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a>.</p>
